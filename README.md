@@ -1,10 +1,9 @@
 # Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage
 
-**Anonymous Submission**
 
 ## Overview
 
-This directory contains supplementary materials for our ACL submission on cognitive collusion attacks against LLM-based agents. We demonstrate how coordinated agents can manipulate victim beliefs using only truthful evidence fragments through strategic narrative construction.
+This repository is our demo implementation on cognitive collusion attacks against LLM-based agents. We demonstrate how coordinated agents can manipulate victim beliefs using only truthful evidence fragments through strategic narrative construction in public channels.
 
 ## Repository Contents
 
@@ -89,4 +88,4 @@ export ANTHROPIC_API_KEY="your-key-here"
 export HUGGINGFACE_API_KEY="your-key-here"
 ```
 
-**Full code release**: The complete implementation and dataset will be released upon paper acceptance at Github.
+**Full code release**: The complete implementation and dataset will be released upon paper acceptance.
