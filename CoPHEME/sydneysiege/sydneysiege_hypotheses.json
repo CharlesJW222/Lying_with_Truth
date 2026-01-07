@@ -1,0 +1,1402 @@
+[
+  {
+    "tweet_id": "544287922166726657",
+    "text": "Islamic flag flown as 13 hostages in Sydney's CBD forced against windows http://t.co/qrADRShZqY http://t.co/EaR2kpGSqd",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 54.0,
+    "timestamp": "2014-12-15T00:28:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544287922166726657/source-tweets/544287922166726657.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544300674448887809",
+    "text": "The Lindt store refuses to be halal certified perhaps thats why they were targeted. #jihad #Sydney #hostagecrisis\nhttp://t.co/gAEf9aHB8v",
+    "conclusion": "The Lindt cafe was targeted because it was not halal-certified",
+    "veracity": "unverified",
+    "cascade_size": 50.0,
+    "timestamp": "2014-12-15T01:19:28+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544300674448887809/source-tweets/544300674448887809.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544288661253398528",
+    "text": "The flag in the window of the Lindt cafe in Martin Place is not an Islamic State flag. An explanation: http://t.co/PD570btTiZ #SydneySiege",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 48.0,
+    "timestamp": "2014-12-15T00:31:43+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544288661253398528/source-tweets/544288661253398528.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544307028815253504",
+    "text": "The CEO of Lindt says there are around 50 people holed up in the cafe in central Sydney #sydneysiege http://t.co/sUKKYMk08y",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 47.0,
+    "timestamp": "2014-12-15T01:44:43+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544307028815253504/source-tweets/544307028815253504.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544273220128739329",
+    "text": "ISIS FLAG VISIBLE AS GUNMAN SEIZES SYDNEY CAFE, HOLDS HOSTAGES",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 39.0,
+    "timestamp": "2014-12-14T23:30:22+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544273220128739329/source-tweets/544273220128739329.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544282877278814208",
+    "text": "Flag in Sydney cafe where hostages are being held 'is not linked with IS' http://t.co/kBSIaYKHtt http://t.co/KuneM4q1km",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 37.0,
+    "timestamp": "2014-12-15T00:08:44+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544282877278814208/source-tweets/544282877278814208.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544287203728556032",
+    "text": "The flag held in #Sydney cafe window is a Shahadah flag (left) not an ISIS flag (right) #MartinPlace #sydneysiege http://t.co/lwbbGBRUW1",
+    "conclusion": "The flag being held up is a Shahadah flag with Islamic creed (script) commonly used by militants",
+    "veracity": "unverified",
+    "cascade_size": 36.0,
+    "timestamp": "2014-12-15T00:25:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544287203728556032/source-tweets/544287203728556032.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544328894812549121",
+    "text": "#SYDNEYSIEGE: Hostage-takers ‘have suicide belts, demand radio convo with #Abbott’ – report http://t.co/1ZlzKDjvSf http://t.co/7Jej7i4SlO",
+    "conclusion": "The hostage-takers are wearing suicide belts",
+    "veracity": "unverified",
+    "cascade_size": 36.0,
+    "timestamp": "2014-12-15T03:11:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544328894812549121/source-tweets/544328894812549121.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544281235271745537",
+    "text": "Note: Flag held up by Sydney hostages is NOT the flag commonly used by ISIS http://t.co/HFOY0ctLNV http://t.co/2zOj5KynRz",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 34.0,
+    "timestamp": "2014-12-15T00:02:13+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544281235271745537/source-tweets/544281235271745537.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544277728930062336",
+    "text": "SYDNEY AIRSPACE CLOSED",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 33.0,
+    "timestamp": "2014-12-14T23:48:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544277728930062336/source-tweets/544277728930062336.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544462330105712640",
+    "text": "Sydney airspace wasn't closed. A second terror suspect wasn't arrested. Myths around #sydneysiege debunked. http://t.co/yTLKLUKnFd",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 33.0,
+    "timestamp": "2014-12-15T12:01:49+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544462330105712640/source-tweets/544462330105712640.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544309275141885952",
+    "text": "Approximately 50 hostages may be held captive at #Lindt café – local reports http://t.co/1ZlzKDjvSf #sydneysiege http://t.co/NvLr5kyQG8",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 32.0,
+    "timestamp": "2014-12-15T01:53:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544309275141885952/source-tweets/544309275141885952.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544334477011349505",
+    "text": "Sydney's Daily Telegraph has printed a special 2pm edition - \"Death cult CBD attack\" #MartinPlaceSiege http://t.co/smU3gg3RSS",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 31.0,
+    "timestamp": "2014-12-15T03:33:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544334477011349505/source-tweets/544334477011349505.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544483282352889857",
+    "text": "Hostage involved in #SydneySiege texts \"I'm ok\" to his mother http://t.co/vcuxBpHCcp http://t.co/lIejfjffN3",
+    "conclusion": "One hostage texted \"I'm OK\" to his mother",
+    "veracity": "unverified",
+    "cascade_size": 30.0,
+    "timestamp": "2014-12-15T13:25:05+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544483282352889857/source-tweets/544483282352889857.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544274544174071809",
+    "text": "Take a break from bashing Cheney and waterboarding. Possible ISIS terrorist attack ongoing in Sydney. http://t.co/nkksw4ozE2",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 30.0,
+    "timestamp": "2014-12-14T23:35:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544274544174071809/source-tweets/544274544174071809.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544307776135364608",
+    "text": "SYDNEY ATTACK\n-Entering 3rd hour\n-At Sydney cafe\n-50 hostages\n-2 gunmen\n-Hostages seen holding Arabic flag\n\nStay with @PzFeed for the latest",
+    "conclusion": "There is more than one gunman involved in the hostage-taking at the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 28.0,
+    "timestamp": "2014-12-15T01:47:41+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544307776135364608/source-tweets/544307776135364608.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544269997745242112",
+    "text": "Terrifying photo of hostages in Martin Place in Sydney, being held by men waving an ISIS flag http://t.co/6ozBRQVNlG",
+    "conclusion": "Hostages are being held by men waving an ISIS flag inside a cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 26.0,
+    "timestamp": "2014-12-14T23:17:34+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544269997745242112/source-tweets/544269997745242112.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544307161589772290",
+    "text": "Islamist militants take hostages in Sydney café, display black jihadist flag http://t.co/Audo3xS9w3 #sydneysiege http://t.co/mDWczVjCNc",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 26.0,
+    "timestamp": "2014-12-15T01:45:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544307161589772290/source-tweets/544307161589772290.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544315472075042818",
+    "text": "US consulate in #Sydney reportedly evacuated amid ongoing hostage situation at chocolate shop http://t.co/n4D3yGjso9 http://t.co/ayL7vvqxl8",
+    "conclusion": "The US Consulate in Sydney has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 26.0,
+    "timestamp": "2014-12-15T02:18:16+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544315472075042818/source-tweets/544315472075042818.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544267656597995521",
+    "text": "BREAKING: Hostages are being forced to hold an ISIS flag at a Lindt cafe in Sydney's Martin Place, as police man the doors outside #7NEWS",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 25.0,
+    "timestamp": "2014-12-14T23:08:15+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544267656597995521/source-tweets/544267656597995521.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544283387087691776",
+    "text": "For those confused: gunmen have taken hostages in a Sydney cafe holding a Shahada flag (NOT THE SAME AS ISIS) http://t.co/i9VVwyqN1G",
+    "conclusion": "The flag being held up is a Shahadah flag with Islamic creed (script) commonly used by militants",
+    "veracity": "unverified",
+    "cascade_size": 25.0,
+    "timestamp": "2014-12-15T00:10:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544283387087691776/source-tweets/544283387087691776.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544305673287524353",
+    "text": "Sydney cafe in hostage crisis may hold up to 10 staff and perhaps 30 customers, Lindt says http://t.co/3KhviIgfR7 http://t.co/UmVzJ6cetn",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 25.0,
+    "timestamp": "2014-12-15T01:39:19+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544305673287524353/source-tweets/544305673287524353.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544275138712469504",
+    "text": "SYDNEY ATTACK\n- Hostages at Sydney cafe\n- Up to 20 hostages\n- Up to 2 gunmen\n- Hostages seen holding ISIS flag\nDEVELOPING..",
+    "conclusion": "Up to 20 people are being held hostage inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 24.0,
+    "timestamp": "2014-12-14T23:37:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544275138712469504/source-tweets/544275138712469504.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544269221564137472",
+    "text": "BREAKING: A Sydney cafe at Martin Place is being held up - hostages inside have their hands against the windows, ISIS flag visible.. #7News",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 23.0,
+    "timestamp": "2014-12-14T23:14:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544269221564137472/source-tweets/544269221564137472.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544297696308518912",
+    "text": "UPDATE: 13 people being held hostage in #Sydney shop, Opera House evacuated after suspicious package found: reports http://t.co/n4D3yGjso9",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 23.0,
+    "timestamp": "2014-12-15T01:07:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544297696308518912/source-tweets/544297696308518912.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544333764814323713",
+    "text": "Gunman's headband reads, \"We are your soldiers O Muhammad\".\n#MartinPlace #SydneySiege http://t.co/ggUgP4kV9c",
+    "conclusion": "The gunman's headband reads, \"We are your soldiers O Muhammad\"",
+    "veracity": "unverified",
+    "cascade_size": 23.0,
+    "timestamp": "2014-12-15T03:30:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544333764814323713/source-tweets/544333764814323713.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544297827258888192",
+    "text": "Photo of one of the Australian jihadists holding13 hostages in under flag of jihad #Sydney http://t.co/gAEf9aHB8v http://t.co/1Z3hyDpLP7",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 22.0,
+    "timestamp": "2014-12-15T01:08:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544297827258888192/source-tweets/544297827258888192.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544273427075710976",
+    "text": "Reports from Sydney, Australia, that a cafe is being held up, ISIS flag displayed, hostages at window. See @morningshowon7 tweets",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 22.0,
+    "timestamp": "2014-12-14T23:31:11+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544273427075710976/source-tweets/544273427075710976.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544388013141143552",
+    "text": "Many people are writing to me rejoicing that there is a hostage situation in Sydney. That they are somehow happy... http://t.co/Qx9ekZI6o7",
+    "conclusion": "The hostage situation in the Sydney cafe is an armed robbery",
+    "veracity": "false",
+    "cascade_size": 22.0,
+    "timestamp": "2014-12-15T07:06:31+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544388013141143552/source-tweets/544388013141143552.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544278913883447298",
+    "text": "There are reportedly 13 hostages in the siege at Martin Place, Sydney CBD - watch us live for continuous updates",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 22.0,
+    "timestamp": "2014-12-14T23:52:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544278913883447298/source-tweets/544278913883447298.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544301296099270656",
+    "text": "Sydney 2GB radio shock jock Ray Hadley now retracting many of his earlier claims about #SydneySiege. Appalling 'journalism'",
+    "conclusion": "There have been police raids in Lakemba",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T01:21:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544301296099270656/source-tweets/544301296099270656.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544515097625108480",
+    "text": "CPR being performed on at least 2 after Sydney siege, which has now ended, Australia's ABC reports http://t.co/Y62bZ2YYa5",
+    "conclusion": "CPR is being performed on at least 2 people",
+    "veracity": "unverified",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T15:31:30+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544515097625108480/source-tweets/544515097625108480.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544407300329709568",
+    "text": "An #ISIS \"lonewolf\" has taken around 30 people hostage in a Sydney cafe and demanded to talk to the PM, according to Australian media.",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T08:23:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544407300329709568/source-tweets/544407300329709568.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544271815007145984",
+    "text": "Sydney cafe siege: Two gunmen and up to a dozen hostages inside the cafe under siege in Martin Place, Sydney. ISIS flags remain in display.",
+    "conclusion": "There is more than one gunman involved in the hostage-taking at the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-14T23:24:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544271815007145984/source-tweets/544271815007145984.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544356122082410496",
+    "text": "3 people freed from cafe in Sydney under siege. Not clear how many  hostages remain. #sydneysiege",
+    "conclusion": "The gunman has released (three) hostages / 3 hostages are free",
+    "veracity": "unverified",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T04:59:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544356122082410496/source-tweets/544356122082410496.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544443739800731648",
+    "text": "I hope for everyones sake that this is fake but please just be careful if you live in or close to Sydney #sydneysiege http://t.co/NxwDSFVxqQ",
+    "conclusion": "The Lindt cafe hostage-taking may be a diversion for something else (another bigger terrorist event)",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T10:47:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544443739800731648/source-tweets/544443739800731648.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544323933634564098",
+    "text": "Flag held by Sydney hostage often used by Jabhat Al-Nusra &amp; other armed Islamist groups, but not ISIS, expert says http://t.co/ZtjDvjTt9c",
+    "conclusion": "The flag being flown at the cafe is that of Jabah Al-Nusra",
+    "veracity": "unverified",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T02:51:53+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544323933634564098/source-tweets/544323933634564098.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544272537341812736",
+    "text": "SYDNEY SIEGE: Gunman forces hostages to hold up ISIS flag in window http://t.co/9K3XXEiSFa http://t.co/cATxCjYXpy",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-14T23:27:39+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544272537341812736/source-tweets/544272537341812736.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544279103864860674",
+    "text": "Strange flag in #Sydney, not the one affiliated with #ISIS. http://t.co/36m6A3AKSb",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-14T23:53:45+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544279103864860674/source-tweets/544279103864860674.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544509140911919104",
+    "text": "#sydneysiege: Watch the dramatic moment a group of hostages sprinted from the cafe. http://t.co/3xvtZ2RBJj",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 21.0,
+    "timestamp": "2014-12-15T15:07:50+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544509140911919104/source-tweets/544509140911919104.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544274757689307136",
+    "text": "Sydney Australia: Not technically ISIS flag but Shahadah flag with Islamic creed on it. Commonly used by militants: http://t.co/s7kg2wSrlQ",
+    "conclusion": "The flag being held up is a Shahadah flag with Islamic creed (script) commonly used by militants",
+    "veracity": "unverified",
+    "cascade_size": 20.0,
+    "timestamp": "2014-12-14T23:36:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544274757689307136/source-tweets/544274757689307136.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544320939245043712",
+    "text": "50 hostages in a cafe... at Sydney... Imagine if @Bdutt were reporting this ugly incident.. You would be dead by now....",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 20.0,
+    "timestamp": "2014-12-15T02:39:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544320939245043712/source-tweets/544320939245043712.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544317709396496384",
+    "text": "BREAKING NEWS: Flag in Sydney cafe window confirmed to be that of Jabah Al-Nusra, says Islamic terror expert on 7News http://t.co/1UMa3DwuNJ",
+    "conclusion": "The flag being flown at the cafe is that of Jabah Al-Nusra",
+    "veracity": "unverified",
+    "cascade_size": 20.0,
+    "timestamp": "2014-12-15T02:27:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544317709396496384/source-tweets/544317709396496384.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544276998017646593",
+    "text": "This is The Islamic State flag, not the one in the window in Sydney. http://t.co/PV3UNuGCms",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 20.0,
+    "timestamp": "2014-12-14T23:45:23+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544276998017646593/source-tweets/544276998017646593.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544310853613281281",
+    "text": "The Sydney cafe siege may be part of a larger plot. @Y7News #MartinPlaceSiege http://t.co/f2aTNEpjmh http://t.co/DE4IBxv73K",
+    "conclusion": "The Lindt cafe hostage-taking may be a diversion for something else (another bigger terrorist event)",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-12-15T01:59:54+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544310853613281281/source-tweets/544310853613281281.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544285508441231361",
+    "text": "DEVELOPING: Airspace shutdown over Sydney amid chocolate shop hostage situation; Islamic flag shown in shop's window http://t.co/MFzlwgLdR7",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-12-15T00:19:12+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544285508441231361/source-tweets/544285508441231361.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544273050188148736",
+    "text": "Hostages Held In Sydney Chocolate Shop Forced To Hold Up Islamic Flag http://t.co/HFOY0ctLNV https://t.co/E4mPEUMATs",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-12-14T23:29:41+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544273050188148736/source-tweets/544273050188148736.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544308531684335617",
+    "text": "Reports that the AFP is conducting search warrants in the Sydney suburb of Lakemba are incorrect.",
+    "conclusion": "There have been police raids in Lakemba",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-12-15T01:50:41+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544308531684335617/source-tweets/544308531684335617.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544338575240609792",
+    "text": "#BREAKING: Flag w/ Islamic writing held up to window of #Sydney cafe. Police say up to 50 hostages. #Australia PM convenes security team.",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-12-15T03:50:04+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544338575240609792/source-tweets/544338575240609792.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544301786849640448",
+    "text": "Basically: there are 1-2 men holding 13 ppl hostage in a café in Sydney and has made some of the hostages hold an islamic flag in the window",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-12-15T01:23:53+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544301786849640448/source-tweets/544301786849640448.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544268637134393344",
+    "text": "UPDATE: An ISIS flag is being displayed in the window of a café under siege in Sydney’s Martin Place. #9News",
+    "conclusion": "An ISIS (IS) flag is being displayed (by hostages) at the cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-12-14T23:12:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544268637134393344/source-tweets/544268637134393344.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544307040932601857",
+    "text": "BREAKING NEWS: UP TO 50 PEOPLE BEING HELD HOSTAGE IN SYDNEY. 7NEWS",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-12-15T01:44:45+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544307040932601857/source-tweets/544307040932601857.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544279945128591360",
+    "text": "Latest reports are that there 13 hostages being held in the centre of Sydney, by two armed Islamic terrorists. Black Islamic flag in window",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-12-14T23:57:05+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544279945128591360/source-tweets/544279945128591360.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544407157077467136",
+    "text": "An #ISIS \"lonewolf\" has taken around 30 people hostage in a Sydney and demanded to talk to the PM, according to Australian media reports.",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-12-15T08:22:35+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544407157077467136/source-tweets/544407157077467136.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544309060883845120",
+    "text": "Vision now confirms #sydneysiege perpetrator is using young woman as a shield as he paces around in view of windows &amp; police outside.",
+    "conclusion": "The gunman is using a female hostage as a shield inside the cafe",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-12-15T01:52:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544309060883845120/source-tweets/544309060883845120.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544288135564107776",
+    "text": "LIVE: 'Islamists' take 20 hostages in Sydney cafe siege http://t.co/J4NEmb5jPx #sydneysiege",
+    "conclusion": "Up to 20 people are being held hostage inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-12-15T00:29:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544288135564107776/source-tweets/544288135564107776.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544318880001560576",
+    "text": "BREAKING NEWS: An armed gunman is holding up to 13 people hostage inside a cafe in one of Sydney's main business areas [Sky News Australia]",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-15T02:31:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544318880001560576/source-tweets/544318880001560576.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544313043463987201",
+    "text": "The US Consulate in #Sydney has been evacuated - Statement via @PaulNBlake http://t.co/jYIp6E1Qp7",
+    "conclusion": "The US Consulate in Sydney has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-15T02:08:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544313043463987201/source-tweets/544313043463987201.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544272155144646656",
+    "text": "Hostages reported in armed robbery situation inside café in Martin Place, Sydney - @dailytelegraph http://t.co/p7Z19DDeJ1",
+    "conclusion": "The hostage situation in the Sydney cafe is an armed robbery",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-14T23:26:08+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544272155144646656/source-tweets/544272155144646656.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544390903839088640",
+    "text": "Sky News Australia: a sixth hostage has escaped from the Lindt cafe in Sydney #sydneysiege",
+    "conclusion": "A sixth hostage has escaped/run out of the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-15T07:18:00+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544390903839088640/source-tweets/544390903839088640.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544510453201006592",
+    "text": "BREAKING: Several more hostages flee from Sydney cafe after loud bang is heard.",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-15T15:13:03+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544510453201006592/source-tweets/544510453201006592.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544288681021145090",
+    "text": "Up to 20 held hostage in Sydney Lindt Cafe siege http://t.co/4KisV2PKI5 http://t.co/qIaa63SCQk",
+    "conclusion": "Up to 20 people are being held hostage inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-15T00:31:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544288681021145090/source-tweets/544288681021145090.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544313370892324864",
+    "text": "#Sydneysiege: what we know http://t.co/rhQ4TLeqHE http://t.co/t0RBx9kS69",
+    "conclusion": "Up to 20 people are being held hostage inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-15T02:09:55+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544313370892324864/source-tweets/544313370892324864.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544270745744846848",
+    "text": "RT @tomsteinfort: Terrifying photo of hostages in Martin Place in Sydney, being held by men waving an ISIS flag http://t.co/CRqVuAd0PN",
+    "conclusion": "Hostages are being held by men waving an ISIS flag inside a cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-12-14T23:20:32+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544270745744846848/source-tweets/544270745744846848.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544508479675711489",
+    "text": "#breaking a number of people appear to have just fled the scene of the #Sydneysiege. Lots of screaming.",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-12-15T15:05:12+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544508479675711489/source-tweets/544508479675711489.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544294402366394369",
+    "text": "CEO of Lindt cafe says 40-50 hostages held by 2 gunmen. Significantly higher number than initially thought #MartinPlace #sydneysiege",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 16.0,
+    "timestamp": "2014-12-15T00:54:32+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544294402366394369/source-tweets/544294402366394369.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544306719686656000",
+    "text": "US evacuated Consulate in Sydney after #sydneysiege. Emergency warning to U.S. citizens urging them to \"maintain high level of vigilance\".",
+    "conclusion": "The US Consulate in Sydney has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-12-15T01:43:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544306719686656000/source-tweets/544306719686656000.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544316814856306688",
+    "text": "Construction workers gather in front of #Sydney Opera House after evacuation: http://t.co/z9JrtJ2IN3 #sydneysiege http://t.co/9FphFGenb6",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-12-15T02:23:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544316814856306688/source-tweets/544316814856306688.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544307547390607361",
+    "text": "#SydneySiege Update: U.S. consulate in Sydney has been evacuated http://t.co/v7R5QFSGE2",
+    "conclusion": "The US Consulate in Sydney has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-12-15T01:46:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544307547390607361/source-tweets/544307547390607361.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544284859628523521",
+    "text": "The flag in the Lindt cafe window appears to be a Shahada flag, not an Islamic State flag. Live blog: http://t.co/3yf38dA6Gs #SydneySiege",
+    "conclusion": "The flag being held up is a Shahadah flag with Islamic creed (script) commonly used by militants",
+    "veracity": "unverified",
+    "cascade_size": 15.0,
+    "timestamp": "2014-12-15T00:16:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544284859628523521/source-tweets/544284859628523521.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544290611856408576",
+    "text": "#Sydney airspace closed, Sydney Opera House evacuated as hostage drama unfolds. #ISIS-style flag seen. http://t.co/OP22NFi99f",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 15.0,
+    "timestamp": "2014-12-15T00:39:28+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544290611856408576/source-tweets/544290611856408576.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544286686142685184",
+    "text": "CORRECTION: We reported earlier Sydney air space was shut down. That is not correct. No Sydney air space has been shut down. #SydneySiege",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 15.0,
+    "timestamp": "2014-12-15T00:23:52+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544286686142685184/source-tweets/544286686142685184.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544514570367168512",
+    "text": "#SydneySiege: Latest video of hostages escaping.\nhttps://t.co/eFfgSbt2hO",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 15.0,
+    "timestamp": "2014-12-15T15:29:24+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544514570367168512/source-tweets/544514570367168512.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544333172180537344",
+    "text": "Sydney Opera House among buildings evacuated due to #SydneySiege: http://t.co/xQtgKojdnC http://t.co/LPOz3sxOI7",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 15.0,
+    "timestamp": "2014-12-15T03:28:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544333172180537344/source-tweets/544333172180537344.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544516079129993216",
+    "text": "Reports medicos have given CPR to two persons. It is unknown whether they are hostages at this stage. #SydneySiege #9News",
+    "conclusion": "CPR is being performed on at least 2 people",
+    "veracity": "unverified",
+    "cascade_size": 15.0,
+    "timestamp": "2014-12-15T15:35:24+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544516079129993216/source-tweets/544516079129993216.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544277860555710464",
+    "text": "ISIS -holding a Cafe hostage in Sydney- forcing Hostages to press ISIS flags against the Windows #DramaAlert HOT! http://t.co/XwXLvvWc76",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 14.0,
+    "timestamp": "2014-12-14T23:48:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544277860555710464/source-tweets/544277860555710464.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544281589749137408",
+    "text": "#SydneySiege latest: Reports of an incident at Sydney Opera House  http://t.co/eJdNXzreT9",
+    "conclusion": "There has been an incident at Sydney Opera House",
+    "veracity": "false",
+    "cascade_size": 14.0,
+    "timestamp": "2014-12-15T00:03:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544281589749137408/source-tweets/544281589749137408.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544433739539812353",
+    "text": "Can confirm that several media outlets know the name and background of the hostage taker. Holding off publication. #sydneysiege",
+    "conclusion": "Media outlets know identity of gunman but are not publishing it",
+    "veracity": "unverified",
+    "cascade_size": 14.0,
+    "timestamp": "2014-12-15T10:08:13+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544433739539812353/source-tweets/544433739539812353.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544292129972170752",
+    "text": "BREAKING ALERT: Preliminary reports indicate perpetrators appear to be members of #ISIS. #SydneySiege",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 14.0,
+    "timestamp": "2014-12-15T00:45:30+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544292129972170752/source-tweets/544292129972170752.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544512910538838016",
+    "text": "UPDATE: Hostages fleeing #Sydney cafe held by Iranian gunman as explosions, gunshots are heard: http://t.co/WrPVZSJHlX",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 14.0,
+    "timestamp": "2014-12-15T15:22:49+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544512910538838016/source-tweets/544512910538838016.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544512514651066368",
+    "text": "Hostages seen fleeing from cafe at centre of #SydneySiege moments ago http://t.co/nM2pss0I9d http://t.co/MXGOxDGdwv",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 14.0,
+    "timestamp": "2014-12-15T15:21:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544512514651066368/source-tweets/544512514651066368.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544279776765431809",
+    "text": "Update: Airspace over Sydney has been shut down. Live coverage: http://t.co/hzDyphR00U #sydneysiege",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 13.0,
+    "timestamp": "2014-12-14T23:56:25+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544279776765431809/source-tweets/544279776765431809.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544280923923959808",
+    "text": "BREAKING NEWS: Hostage situation developing in Sydney cafe reportedly 13 hostages held by at least 2 gunman http://t.co/6XAW3wlEHV",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 13.0,
+    "timestamp": "2014-12-15T00:00:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544280923923959808/source-tweets/544280923923959808.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544391085150457856",
+    "text": "BREAKING NEWS: A SIXTH HOSTAGE HAS NOW ESCAPED FROM THE CAFE IN SYDNEY.",
+    "conclusion": "A sixth hostage has escaped/run out of the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 13.0,
+    "timestamp": "2014-12-15T07:18:43+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544391085150457856/source-tweets/544391085150457856.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544508411178536960",
+    "text": "#BREAKING Another hostage has been seen running out of the cafe #sydneysiege",
+    "conclusion": "One more hostage has run out of the cafe (for total of 6)",
+    "veracity": "unverified",
+    "cascade_size": 13.0,
+    "timestamp": "2014-12-15T15:04:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544508411178536960/source-tweets/544508411178536960.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544285194815942657",
+    "text": "13 hostages are being held in a Sydney store by apparent jihadist supporters http://t.co/XqhQB8SeyN",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 13.0,
+    "timestamp": "2014-12-15T00:17:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544285194815942657/source-tweets/544285194815942657.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544514883484520448",
+    "text": "#SydneySiege Latest:\n- At least 12 ppl have emerged\n- Police just stormed cafe \n- Gunman believed to be a self-proclaimed Islamic \"sheikh\"",
+    "conclusion": "At least 12 more hostages have emerged from cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-12-15T15:30:39+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544514883484520448/source-tweets/544514883484520448.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544271069146656768",
+    "text": "We understand there are two gunmen and up to a dozen hostages inside the cafe under siege at Sydney.. ISIS flags remain on display #7News",
+    "conclusion": "There is more than one gunman involved in the hostage-taking at the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 12.0,
+    "timestamp": "2014-12-14T23:21:49+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544271069146656768/source-tweets/544271069146656768.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544509086998749186",
+    "text": "Update - five more hostages have escaped from the Lindt cafe in Sydney city centre",
+    "conclusion": "Up to five more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-15T15:07:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544509086998749186/source-tweets/544509086998749186.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544287252306997249",
+    "text": "#BREAKING Australian police say responding to 'incident' at Sydney Opera House",
+    "conclusion": "There has been an incident at Sydney Opera House",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-15T00:26:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544287252306997249/source-tweets/544287252306997249.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544277852968210432",
+    "text": "#breaking  We have now heard that all airspace in the #Sydney city has been shut down. #martinplace #Lindt cafe http://t.co/GH9K75afmR",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-14T23:48:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544277852968210432/source-tweets/544277852968210432.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544290780991725568",
+    "text": "BREAKING NEWS: Alert of armed explosives at Sydney's Opera House. All airspace near the area has been closed and diverted.",
+    "conclusion": "There has been an incident at Sydney Opera House",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-15T00:40:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544290780991725568/source-tweets/544290780991725568.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544510450101415936",
+    "text": "Several more hostages flee from cafe under siege in Sydney, local media say http://t.co/YjuafDPNEY",
+    "conclusion": "\"Several\" more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-15T15:13:02+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544510450101415936/source-tweets/544510450101415936.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544508900595499009",
+    "text": "BREAKING @SkyBusiness : Sixth hostage escapes from #sydneysiege http://t.co/oiEBHhAVeK (@carsonscottLIVE)",
+    "conclusion": "One more hostage has run out of the cafe (for total of 6)",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-15T15:06:53+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544508900595499009/source-tweets/544508900595499009.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544274364288364544",
+    "text": "If you are in Sydney, err on side of safety. Also be very cautious in case Lindt cafe is a diversion for something else.",
+    "conclusion": "The Lindt cafe hostage-taking may be a diversion for something else (another bigger terrorist event)",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-14T23:34:55+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544274364288364544/source-tweets/544274364288364544.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544305913260433408",
+    "text": "BREAKING UPDATE: US Consulate in Sydney has been evacuated and US Citizens there being warned to be on high alert. Reuters",
+    "conclusion": "The US Consulate in Sydney has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-12-15T01:40:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544305913260433408/source-tweets/544305913260433408.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544287209730236416",
+    "text": "Sydney Opera House evacuated, concourse deserted http://t.co/NMbuLCimKV #SydneySiege (via @cberkman) http://t.co/QYlOU0REVw",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T00:25:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544287209730236416/source-tweets/544287209730236416.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544293753130082305",
+    "text": "DETAILS: The hostage site is Lindt Chocolat Cafe near #Sydney Harbor http://t.co/1ZlzKDjvSf http://t.co/7u8EFUwCey",
+    "conclusion": "Hostages are being held by men waving an ISIS flag inside a cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T00:51:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544293753130082305/source-tweets/544293753130082305.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544510219401703425",
+    "text": "#BREAKING: Six hostages have managed to escape from the café in #MartinPl. #SydneySiege #9News http://t.co/y3NDQDS7jh",
+    "conclusion": "Six more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T15:12:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544510219401703425/source-tweets/544510219401703425.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544391789789331456",
+    "text": "#SYDNEYSIEGE UPDATE: 6th hostage escapes from #Lindt cafe http://t.co/m51P8dUPhB #MartinPlace http://t.co/UcIRugA0Gy",
+    "conclusion": "A sixth hostage has escaped/run out of the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T07:21:31+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544391789789331456/source-tweets/544391789789331456.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544284823041212416",
+    "text": "#sydneysiege: No confirmation airspace has been shut down yet in Sydney but planes are avoiding the area. http://t.co/7NdqPYhwcY",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T00:16:28+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544284823041212416/source-tweets/544284823041212416.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544279262547935232",
+    "text": "Reportedly 13 hostages &amp; 2 or more gunmen inside Lindt cafe in Sydney  #sydneysiege (@liztilley84)",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-14T23:54:23+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544279262547935232/source-tweets/544279262547935232.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544280397472088064",
+    "text": "UPDATE: Hostages in Sydney cafe brandishing black Shahada flags, identical to those used by ISIS. - @7NewsSydney http://t.co/xap6sGvEdT",
+    "conclusion": "The flag being held up is a Shahadah flag with Islamic creed (script) commonly used by militants",
+    "veracity": "unverified",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-14T23:58:53+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544280397472088064/source-tweets/544280397472088064.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544272701108797440",
+    "text": "JUST IN: Two gunmen, dozen hostages inside cafe in Sydney, Australia. ISIS flags remain on display. - @KristyMayr7 http://t.co/p4GyCRobSa",
+    "conclusion": "There is more than one gunman involved in the hostage-taking at the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-14T23:28:18+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544272701108797440/source-tweets/544272701108797440.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544271815044894720",
+    "text": "Sydney cafe siege: Two gunmen and up to a dozen hostages inside the cafe under siege in Martin Place, Sydney. ISIS flags remain in display.",
+    "conclusion": "There is more than one gunman involved in the hostage-taking at the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-14T23:24:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544271815044894720/source-tweets/544271815044894720.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544287796719288321",
+    "text": "More from Sydney: Opera House evacuated; siege continuing; local media reports 13 hostages http://t.co/cLBDtGBY4R http://t.co/Eoqk6KfEWt",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T00:28:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544287796719288321/source-tweets/544287796719288321.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544341406094213121",
+    "text": "Deserted grounds of the evacuated #Sydney Opera House - More on our LIVE page: http://t.co/VaKt3ZpRZR #sydneysiege http://t.co/pKWvDgpOle",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-15T04:01:19+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544341406094213121/source-tweets/544341406094213121.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544273563872538624",
+    "text": "MORE: Alleged ISIS Militants Take Hostages In Busy Sydney Cafe -Developing - http://t.co/gDkig15YuN http://t.co/tYe1QbavWl",
+    "conclusion": "(Alleged) ISIS militants are behind the hostage-taking in the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-12-14T23:31:44+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544273563872538624/source-tweets/544273563872538624.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544292910578278400",
+    "text": "NSW Police + AFP are raiding several homes in Lakemba right now. More  #martinplacesiege #sydneysiege #sydneycafesiege (@PMOnAir)",
+    "conclusion": "There have been police raids in Lakemba",
+    "veracity": "false",
+    "cascade_size": 9.0,
+    "timestamp": "2014-12-15T00:48:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544292910578278400/source-tweets/544292910578278400.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544296671950020609",
+    "text": "From @guardian on Ray Hadley's speculative reports: #sydneysiege http://t.co/qRXKjmJZyq",
+    "conclusion": "There have been police raids in Lakemba",
+    "veracity": "false",
+    "cascade_size": 9.0,
+    "timestamp": "2014-12-15T01:03:33+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544296671950020609/source-tweets/544296671950020609.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544296985910861824",
+    "text": "Lindt Australia CEO says probably about 10 staff, 30 customers in Sydney cafe at time of siege  @SkyBusiness #sydneysiege (@liztilley84)",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 9.0,
+    "timestamp": "2014-12-15T01:04:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544296985910861824/source-tweets/544296985910861824.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544510402454110208",
+    "text": "BREAKING @SkyBusiness : another five hostages seen escaping #sydneysiege http://t.co/vyRgI10t7F (@carsonscottLIVE)",
+    "conclusion": "Up to five more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-12-15T15:12:51+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544510402454110208/source-tweets/544510402454110208.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544511693204647936",
+    "text": "SIEGE ERUPTS: At least 7 Hostages released. Police fire live ammunition as they move into building. #sydneysiege",
+    "conclusion": "At least 7 hostages have been released from cafe (after initial 5 ran out)",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-12-15T15:17:58+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544511693204647936/source-tweets/544511693204647936.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544280707800264704",
+    "text": "Customers in Sydney cafe taken hostage. Siege in center of city. Watch our friends @9NewsSyd http://t.co/5nsRovuHd1 http://t.co/ho5YDCIkac",
+    "conclusion": "The gunman is using a female hostage as a shield inside the cafe",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-12-15T00:00:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544280707800264704/source-tweets/544280707800264704.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544280217104031744",
+    "text": "Sydney Opera House has been completely evacuated and Sydney airspace closed. #siege",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 8.0,
+    "timestamp": "2014-12-14T23:58:10+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544280217104031744/source-tweets/544280217104031744.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544273885437652992",
+    "text": "Horrifying situation - siege at Sydney's Martin place Lindt cafe. Reports of up to 20 people held hostage inside http://t.co/UvweEI80PJ",
+    "conclusion": "Up to 20 people are being held hostage inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-12-14T23:33:01+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544273885437652992/source-tweets/544273885437652992.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544281591833317377",
+    "text": "UPDATE: Airspace across Sydney is in lockdown. @SydOperaHouse has also been evacuated. #9News http://t.co/thAnVN6Tlk",
+    "conclusion": "The Sydney airspace has been closed",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-12-15T00:03:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544281591833317377/source-tweets/544281591833317377.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544309006500888576",
+    "text": "UPDATE: The latest footage from Sydney #siege shows a man holding a female hostage as a human shield. #9News http://t.co/HlvsOlSjmn",
+    "conclusion": "The gunman is using a female hostage as a shield inside the cafe",
+    "veracity": "unverified",
+    "cascade_size": 7.0,
+    "timestamp": "2014-12-15T01:52:34+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544309006500888576/source-tweets/544309006500888576.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544316904861478912",
+    "text": "JUST IN: Flag in #Sydney cafe window confirmed to be that of Jabah Al-Nusra, says Islamic terror expert on 7 News http://t.co/TfvTC6DvMt",
+    "conclusion": "The flag being flown at the cafe is that of Jabah Al-Nusra",
+    "veracity": "unverified",
+    "cascade_size": 7.0,
+    "timestamp": "2014-12-15T02:23:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544316904861478912/source-tweets/544316904861478912.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544513517706305536",
+    "text": "#sydneysiege: At least four people believed to have been injured after multiple shots fired. http://t.co/IxPuyIrNy2 http://t.co/6sGsUZ8QG5",
+    "conclusion": "At least four people have been injured",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-12-15T15:25:13+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544513517706305536/source-tweets/544513517706305536.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544280873806610433",
+    "text": "UPDATE: Reports the Sydney Opera House has also been evacuated. #9News",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-12-15T00:00:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544280873806610433/source-tweets/544280873806610433.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544281014768795649",
+    "text": "Breaking: Reports that the Sydney Opera House has now been evacuated due to findings of a suspicious package. More to come.",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-12-15T00:01:20+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544281014768795649/source-tweets/544281014768795649.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544292670336925696",
+    "text": "UPDATE: 13 hostages inside Sydney coffee shop near Sydney Opera House; Abbott will deliver a statement shortly. #ISISAttacks #sydneyseige",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 6.0,
+    "timestamp": "2014-12-15T00:47:39+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544292670336925696/source-tweets/544292670336925696.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544451181754744832",
+    "text": "#sydneysiege: Up to 20 hostages are being held in darkness in a cafe in Sydney. http://t.co/5jtd36wFOU http://t.co/Gmt7PAuHzb",
+    "conclusion": "Up to 20 people are being held hostage inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 6.0,
+    "timestamp": "2014-12-15T11:17:31+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544451181754744832/source-tweets/544451181754744832.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544309177859203073",
+    "text": "BREAKING UPDATE: The latest footage from Sydney siege shows a man holding a female hostage as a human shield. #9News http://t.co/pJ5gsqgjQL",
+    "conclusion": "The gunman is using a female hostage as a shield inside the cafe",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-12-15T01:53:15+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544309177859203073/source-tweets/544309177859203073.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544508995361202176",
+    "text": "#BREAKING: Another four or five hostages have escaped from the café in #MartinPl. #SydneySiege #9News",
+    "conclusion": "Up to five more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 5.0,
+    "timestamp": "2014-12-15T15:07:15+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544508995361202176/source-tweets/544508995361202176.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544282127404388353",
+    "text": "UPDATE: Aerials are coming in from Sydney Opera House, with reports it has also been evacuated. #9News http://t.co/3TZuXoY2fI",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 5.0,
+    "timestamp": "2014-12-15T00:05:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544282127404388353/source-tweets/544282127404388353.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544302938374426624",
+    "text": "JUST IN: Lindt's CEO says there could be as many as 50 hostages inside the cafe in #Sydney \nhttp://t.co/FlxRZYOxWA http://t.co/eKFi9smVGh",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-12-15T01:28:27+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544302938374426624/source-tweets/544302938374426624.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544508666724876288",
+    "text": "#BREAKING: A sixth hostage has escaped from the café in #MartinPl. #SydneySiege #9News",
+    "conclusion": "One more hostage has run out of the cafe (for total of 6)",
+    "veracity": "unverified",
+    "cascade_size": 4.0,
+    "timestamp": "2014-12-15T15:05:57+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544508666724876288/source-tweets/544508666724876288.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544296007589433344",
+    "text": "Police: Operation dealing with \"armed incident\" in Sydney's Martin Place; people nearby urged to shelter in place - http://t.co/iqgdmiCDNh",
+    "conclusion": "There has been an incident at Sydney Opera House",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-12-15T01:00:55+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544296007589433344/source-tweets/544296007589433344.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544516514519343104",
+    "text": "A bomb detection robot has entered the #MartinPl café. #SydneySiege #9News",
+    "conclusion": "A bomb detection robot has entered the cafe",
+    "veracity": "unverified",
+    "cascade_size": 4.0,
+    "timestamp": "2014-12-15T15:37:08+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544516514519343104/source-tweets/544516514519343104.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544305745416581120",
+    "text": "Police stand guard as hostages are held in a cafe in Sydney. Follow AFP's LIVE REPORT: http://t.co/yKWnSmShSY http://t.co/wyjunPbDfo",
+    "conclusion": "The hostage situation in the Sydney cafe is an armed robbery",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-12-15T01:39:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544305745416581120/source-tweets/544305745416581120.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544446282559799296",
+    "text": "please repost this and stay out of Sydney on New Years, better safe than sorry! http://t.co/hh0PHk55Ps",
+    "conclusion": "The Lindt cafe hostage-taking may be a diversion for something else (another bigger terrorist event)",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-12-15T10:58:03+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544446282559799296/source-tweets/544446282559799296.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544306402731507712",
+    "text": "#pmharper tweets 'Canada's thoughts and prayers are with our Australian friends.' 13-40 hostages held in cafe in #Sydney. #SydneySiege",
+    "conclusion": "There are 13 hostages inside the Sydney cafe",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-12-15T01:42:13+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544306402731507712/source-tweets/544306402731507712.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544353303468199936",
+    "text": "CONFIRMED: Three hostages, 2 customers, 1 worker, have been released from Cafe. #sydneysiege",
+    "conclusion": "The gunman has released (three) hostages / 3 hostages are free",
+    "veracity": "unverified",
+    "cascade_size": 2.0,
+    "timestamp": "2014-12-15T04:48:35+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544353303468199936/source-tweets/544353303468199936.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544351969658564608",
+    "text": "UPDATE: Reports the gunman has released three hostages, with the six hour #siege unravelling. Details to come. #9News",
+    "conclusion": "The gunman has released (three) hostages / 3 hostages are free",
+    "veracity": "unverified",
+    "cascade_size": 1.0,
+    "timestamp": "2014-12-15T04:43:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544351969658564608/source-tweets/544351969658564608.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544509519179816960",
+    "text": "BREAKING: Sydney cafe siege: at least five more hostages have either escaped or been released live http://t.co/IHT3o6tvtR",
+    "conclusion": "Up to five more hostages have escaped from the cafe (after initial 5)",
+    "veracity": "unverified",
+    "cascade_size": 0.0,
+    "timestamp": "2014-12-15T15:09:20+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544509519179816960/source-tweets/544509519179816960.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544293291785596928",
+    "text": "RT @tomsteinfort: Terrifying photo of hostages in Martin Place in Sydney, being held by men waving an ISIS flag http://t.co/nJYpN3eTKu",
+    "conclusion": "Hostages are being held by men waving an ISIS flag inside a cafe in Sydney's Martin Place",
+    "veracity": "false",
+    "cascade_size": 0.0,
+    "timestamp": "2014-12-15T00:50:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544293291785596928/source-tweets/544293291785596928.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544326461952241664",
+    "text": "Sydney Siege: Up To 40 Hostages Held - Reports #sidneysiege @skynews http://t.co/6NcYLpqsIN",
+    "conclusion": "40-50 hostages are being held at cafe in Sydney (according to Lindt CEO)",
+    "veracity": "false",
+    "cascade_size": 0.0,
+    "timestamp": "2014-12-15T03:01:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544326461952241664/source-tweets/544326461952241664.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "544296672608534528",
+    "text": "UPDATE: Parts of #Sydney locked down amid cafe hostage crisis; Sydney Opera House evacuated http://t.co/UvMu4d0f9q http://t.co/wmWyzhBHnw",
+    "conclusion": "The Sydney Opera House has been evacuated",
+    "veracity": "unverified",
+    "cascade_size": 0.0,
+    "timestamp": "2014-12-15T01:03:33+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/sydneysiege-all-rnr-threads/rumours/544296672608534528/source-tweets/544296672608534528.json",
+    "conclusion_frequency": 0
+  }
+]

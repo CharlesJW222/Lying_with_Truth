@@ -1,0 +1,1412 @@
+[
+  {
+    "tweet_id": "525051210349289472",
+    "text": "Breaking News: U.S. agencies have been advised that #Ottawa shooter was believed to be a #Canadian convert to #Islam, #FoxNews confirms.",
+    "conclusion": "Suspect was a (Canadian) convert to Islam",
+    "veracity": "unverified",
+    "cascade_size": 87.0,
+    "timestamp": "2014-10-22T22:28:58+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525051210349289472/source-tweets/525051210349289472.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524964948683005952",
+    "text": "#Ottawa police confirm to #CBCNews they are still seeking 1 or more suspects after shootings on Parliament Hill, War Memorial, nearby mall.",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 45.0,
+    "timestamp": "2014-10-22T16:46:11+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524964948683005952/source-tweets/524964948683005952.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524927281048080385",
+    "text": "Snipers set up on National Art Gallery as we remain barricaded in Centre Block on Parliament Hill #cdnpoli. http://t.co/lWKaxLI9jO",
+    "conclusion": "There are snipers on the roof of the National Art Gallery",
+    "veracity": "unverified",
+    "cascade_size": 42.0,
+    "timestamp": "2014-10-22T14:16:31+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524927281048080385/source-tweets/524927281048080385.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524957752138149888",
+    "text": "NORAD increases number of planes on higher alert status ready to respond if necessary, official says. http://t.co/qsAnGNqBEw #OttawaShooting",
+    "conclusion": "NORAD on high-alert posture",
+    "veracity": "unverified",
+    "cascade_size": 37.0,
+    "timestamp": "2014-10-22T16:17:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524957752138149888/source-tweets/524957752138149888.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524953017389707264",
+    "text": "BREAKING NEWS: CANADIAN OFFICIALS NOW CALLING TODAY'S PARLIAMENT SHOOTING A TERRORIST ATTACK - http://t.co/lXFiYaVImZ",
+    "conclusion": "Canadian officials are calling the incident a terrorist attack",
+    "veracity": "unverified",
+    "cascade_size": 35.0,
+    "timestamp": "2014-10-22T15:58:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524953017389707264/source-tweets/524953017389707264.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525040097272819712",
+    "text": "NO, Michael Zehaf-Bibeau was NOT wearing a GamerGate t-shirt during the Ottawa Shooting.  The people spreading this are freaking sick.",
+    "conclusion": "The suspect was not wearing a GamerGate t-shirt during the shooting",
+    "veracity": "unverified",
+    "cascade_size": 35.0,
+    "timestamp": "2014-10-22T21:44:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525040097272819712/source-tweets/525040097272819712.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524956129017995264",
+    "text": "Police say shots fired at 3 #Ottawa sites -  National War Memorial, Parliament Hill, and now Rideau shopping centre http://t.co/rOnqpUbuqc",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 33.0,
+    "timestamp": "2014-10-22T16:11:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524956129017995264/source-tweets/524956129017995264.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524956294395224064",
+    "text": "Here are the 3 locations of shootings in #Ottawa around Parliament Hill (GoofleEarth)\nFrom: @CNNJason\nhttp://t.co/DSyNgBC02U",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 27.0,
+    "timestamp": "2014-10-22T16:11:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524956294395224064/source-tweets/524956294395224064.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525003468659228672",
+    "text": "These are not timid colours; soldiers back guarding Tomb of Unknown Soldier after today's shooting #StandforCanada http://t.co/7KoW2xATKG",
+    "conclusion": "Soldiers are already back guarding the war memorial after today's shooting incident",
+    "veracity": "false",
+    "cascade_size": 25.0,
+    "timestamp": "2014-10-22T19:19:15+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525003468659228672/source-tweets/525003468659228672.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524959630158725120",
+    "text": "These are the areas where the #OttawaShootings have been reported.  http://t.co/KkgffESRD5 http://t.co/Vvyip1FQjm",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 24.0,
+    "timestamp": "2014-10-22T16:25:03+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524959630158725120/source-tweets/524959630158725120.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524962072262881280",
+    "text": "Ottawa Police Service: No one was hurt in the shooting near Ottawa's Rideau Centre. Live blog: http://t.co/q98AMohu7T",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 21.0,
+    "timestamp": "2014-10-22T16:34:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524962072262881280/source-tweets/524962072262881280.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524937968138878976",
+    "text": "BREAKING: Soldier shot near Canada's parliament; active shooter at large.  http://t.co/ldO9r3y0JQ http://t.co/5Ssy2fEmSb",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 20.0,
+    "timestamp": "2014-10-22T14:58:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524937968138878976/source-tweets/524937968138878976.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524985687704338432",
+    "text": "Updated: The shooting incident in Ottawa had the appearance of a coordinated attack http://t.co/brn047wYz8 http://t.co/rfCQHTUPft",
+    "conclusion": "The shooting was a coordinated attack",
+    "veracity": "false",
+    "cascade_size": 20.0,
+    "timestamp": "2014-10-22T18:08:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524985687704338432/source-tweets/524985687704338432.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949526487265280",
+    "text": "#BREAKING: Ottawa police confirm there were at least three separate shootings",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T15:44:54+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949526487265280/source-tweets/524949526487265280.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524940716733370374",
+    "text": "WATCH: Shots are fired inside Ottawa's Parliament building. Canadian police say shooting suspect is still at large. https://t.co/mzxG4e8m84",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T15:09:54+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524940716733370374/source-tweets/524940716733370374.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524962199543230464",
+    "text": "No one hurt in shooting at Ottawa's Rideau Centre -- scene of 1 of 3 attacks, Canadian police say. http://t.co/qsAnGNqBEw #ottawashooting",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T16:35:16+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524962199543230464/source-tweets/524962199543230464.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524936365427806208",
+    "text": "DEVELOPING: Shooting suspect at large inside Canadian Parliament: reports\nhttp://t.co/hU0OfoOGEC http://t.co/5fkHcPaK97",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T14:52:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524936365427806208/source-tweets/524936365427806208.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524956383318650880",
+    "text": "Photos of the scene in Ottawa, where police confirm 'several' shootings http://t.co/1vpA0rErQg http://t.co/djjyH5S30C",
+    "conclusion": "There were \"several\" shooting incidents",
+    "veracity": "unverified",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T16:12:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524956383318650880/source-tweets/524956383318650880.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524953604717686784",
+    "text": "CANADIAN OFFICIALS NOW CALLING TODAY'S PARLIAMENT SHOOTING A TERRORIST ATTACK - http://t.co/5VYMWGWyx3 http://t.co/jQn39E7hTA",
+    "conclusion": "Canadian officials are calling the incident a terrorist attack",
+    "veracity": "unverified",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T16:01:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524953604717686784/source-tweets/524953604717686784.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524940077978640384",
+    "text": "Police say the shooter is on roof of building at Metcalfe and Sparks 1 block from Parliament Hill #ottnews #cbcott http://t.co/ZZiMUgj69H",
+    "conclusion": "The suspect is on the roof of building at Metcalfe and Sparks Street",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T15:07:22+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524940077978640384/source-tweets/524940077978640384.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524981557770350592",
+    "text": "BREAKING: Ottawa police say they believe there is more than one shooter.",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T17:52:11+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524981557770350592/source-tweets/524981557770350592.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524951314556796929",
+    "text": ".@OttawaPolice: \"Incidents occurred at National War Memorial, near the Rideau Centre and Parliament Hill.\" Live blog: http://t.co/q98AMohu7T",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 19.0,
+    "timestamp": "2014-10-22T15:52:01+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524951314556796929/source-tweets/524951314556796929.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524959027516932096",
+    "text": "In response to Ottawa incidents, NORAD increased number of planes on higher alert status ready to respond if needed. http://t.co/q98AMohu7T",
+    "conclusion": "NORAD on high-alert posture",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T16:22:40+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524959027516932096/source-tweets/524959027516932096.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525035564014526464",
+    "text": "FBI working with Canadian authorities to determine if Ottawa shooting was an act of terrorism http://t.co/oDy7eSbgFn",
+    "conclusion": "The FBI is assisting Canadians with the Ottawa shooting",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T21:26:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525035564014526464/source-tweets/525035564014526464.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524983581983375360",
+    "text": "Police now say there were two shooting incidents in Ottawa: one at the war memorial, the other on Parliament Hill. http://t.co/q98AMohu7T",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T18:00:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524983581983375360/source-tweets/524983581983375360.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524957517294886912",
+    "text": "Gunman on the loose in downtown Ottawa. Canadian citizens disarmed by their government. Target rich environment. #OttawaShooting",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T16:16:40+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524957517294886912/source-tweets/524957517294886912.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524925730053181440",
+    "text": "Shooter still on loose after uniformed soldier shot at #Ottawa's War Memorial, across road from Parliament. MP's being taken out of offices.",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T14:10:21+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524925730053181440/source-tweets/524925730053181440.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524976929703997441",
+    "text": "BREAKING: Hospital says it has received 3 victims from Ottawa shootings, 2 are in stable condition.",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T17:33:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524976929703997441/source-tweets/524976929703997441.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524951585231994880",
+    "text": "Police say there are 3 shooting scenes: Parliament, War Memorial, Rideau Centre. They happened close together, police say #cbcOTT #OTTnews",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T15:53:05+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524951585231994880/source-tweets/524951585231994880.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947196131966976",
+    "text": "Credible sources tell @SunNewsNetwork there may be as many as five active shooters in #Ottawa http://t.co/riheafK9WV http://t.co/stc2O4WlcS",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T15:35:39+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947196131966976/source-tweets/524947196131966976.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524967620588896256",
+    "text": "Ottawa Hospital has received 3 patients, 2 of whom are in stable condition. Won't give update on soldier, deferring to DND. #cbcOTT #OTTnews",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T16:56:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524967620588896256/source-tweets/524967620588896256.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524953840127574016",
+    "text": "Police confirm 3rd shooting in area of Rideau Centre, mall in downtown #Ottawa east of Parliament Hill. #cdnpoli",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 18.0,
+    "timestamp": "2014-10-22T16:02:03+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524953840127574016/source-tweets/524953840127574016.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947867975561216",
+    "text": "Ottawa Police Service: There were \"numerous gunmen\" at the Canada War Memorial shooting. One person was shot. http://t.co/zNhxK6wBoy",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-10-22T15:38:19+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947867975561216/source-tweets/524947867975561216.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524964564018790400",
+    "text": "Ottawa police confirm they are looking for more than one suspect in Parliament Hill shooting. http://t.co/1cKIHwuCzl",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-10-22T16:44:40+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524964564018790400/source-tweets/524964564018790400.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524944569528750080",
+    "text": "Incidents occurred at National War Memorial, near the Rideau Centre and Parliament Hill this morning. #ottnews",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 17.0,
+    "timestamp": "2014-10-22T15:25:13+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524944569528750080/source-tweets/524944569528750080.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524937594090844160",
+    "text": "More shots being fired near parliament in Ottawa, suspect still at large: TV",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 17.0,
+    "timestamp": "2014-10-22T14:57:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524937594090844160/source-tweets/524937594090844160.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524943012602716160",
+    "text": "OTTAWA! Sending postive vibes. Stay away from rooftops and windows in downtown. Shooter still in Parliament Hill: http://t.co/WzBRh1x9sq",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-10-22T15:19:01+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524943012602716160/source-tweets/524943012602716160.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524926643325132800",
+    "text": "Watch live: CBC NN coverage of shooting of soldier at Ottawa Cenotaph; shooter still on loose around Parliament Hill: http://t.co/16oYL4awFM",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-10-22T14:13:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524926643325132800/source-tweets/524926643325132800.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525058825909731328",
+    "text": "The Ottawa Hospital now says \"all three patients involved in today's incident have been discharged\" http://t.co/24l1f58UPx #OttawaShootings",
+    "conclusion": "Three patients injured in Ottawa shooting released from hospital",
+    "veracity": "unverified",
+    "cascade_size": 16.0,
+    "timestamp": "2014-10-22T22:59:13+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525058825909731328/source-tweets/525058825909731328.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524954586696933377",
+    "text": "Ottawa police confirm 3 separate shooting incidents today; 1 on Parliament Hill, 1 at War Memorial and 1 near area mall - @CP24, @CBCNews",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 16.0,
+    "timestamp": "2014-10-22T16:05:01+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524954586696933377/source-tweets/524954586696933377.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524951711941922818",
+    "text": "BREAKING: CTV Ottawa confirms there were 3 separate shootings. One on Parliament Hill, one at National War Memorial, one near Rideau Centre",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 16.0,
+    "timestamp": "2014-10-22T15:53:35+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524951711941922818/source-tweets/524951711941922818.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524979668282519552",
+    "text": "Ottawa hospital confirms it's treating 3 #OttawaShooting victims - 2 in stable condition\nhttp://t.co/IbLAWEjEeD http://t.co/zSoC0VxOKN",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 15.0,
+    "timestamp": "2014-10-22T17:44:41+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524979668282519552/source-tweets/524979668282519552.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525032872647065600",
+    "text": "BREAKING: Michael Zehaf-Bebeau had been designated \"high-risk traveller\" by CDN govt, which confiscated his passport http://t.co/dPeMQ78jzm",
+    "conclusion": "The suspect had his passport confiscated by Canadian government",
+    "veracity": "unverified",
+    "cascade_size": 15.0,
+    "timestamp": "2014-10-22T21:16:06+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525032872647065600/source-tweets/525032872647065600.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524950887119482882",
+    "text": "Police in pursuit of multiple shooters in Ottawa; PM safe; downtown buildings in lockdown http://t.co/3FCWaFPA4y http://t.co/Si3yY0BRRd",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 15.0,
+    "timestamp": "2014-10-22T15:50:19+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524950887119482882/source-tweets/524950887119482882.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525059348574130176",
+    "text": "The three people brought to Ottawa Hospital after today’s shooting have been released in stable condition. Live blog: http://t.co/D58rrFrbwq",
+    "conclusion": "Three patients injured in Ottawa shooting released from hospital",
+    "veracity": "unverified",
+    "cascade_size": 14.0,
+    "timestamp": "2014-10-22T23:01:18+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525059348574130176/source-tweets/525059348574130176.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524930538009006081",
+    "text": "Canada police say suspect in Ottawa shooting still at large, tactical units on scene.",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 14.0,
+    "timestamp": "2014-10-22T14:29:27+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524930538009006081/source-tweets/524930538009006081.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524981513637888000",
+    "text": "UPDATE: This morning’s shooting incidents occurred at the National War Memorial and on Parliament Hill.  Not Rideau Centre. #ottnews",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 14.0,
+    "timestamp": "2014-10-22T17:52:01+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524981513637888000/source-tweets/524981513637888000.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524958128392376320",
+    "text": "Ottawa police confirm that there were multiple suspects in the shooting, saying there were \"possibly 3\" shooters. http://t.co/In9OgOxYXM",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 13.0,
+    "timestamp": "2014-10-22T16:19:05+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524958128392376320/source-tweets/524958128392376320.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524945170777645059",
+    "text": "Watch Live: Manhunt for Canadian Parliament shooting suspect http://t.co/oWI4Jj0X5i via @CTVNews http://t.co/iqiSSYHWP2",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T15:27:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524945170777645059/source-tweets/524945170777645059.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524937330923417600",
+    "text": "UPDATED: Gunman on the loose after soldier shot at Ottawa war memorial http://t.co/0XJ9qbOJ3G http://t.co/Mqgn3ouul8",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T14:56:27+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524937330923417600/source-tweets/524937330923417600.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949887591653376",
+    "text": "#BREAKING: Ottawa Police now confirming a 3rd shooting. This one at the Rideau Centre Mall. No word on injuries at that one.#OttawaShooting",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T15:46:20+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949887591653376/source-tweets/524949887591653376.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524954833648771072",
+    "text": "At least 30 more shots were fired inside Parliament in Ottawa. http://t.co/1cKIHwuCzl",
+    "conclusion": "30 shots were fired inside/on Parliament Hill",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T16:06:00+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524954833648771072/source-tweets/524954833648771072.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524932792925569024",
+    "text": "Recap: Parliament Hill in lockdown after uniformed Canadian soldier shot at War Memorial. Suspect on loose; witnesses say he had rifle.",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T14:38:25+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524932792925569024/source-tweets/524932792925569024.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525033625788907520",
+    "text": "Good news is Canadian gov't successfully prevented Zehaf-Bebeau from joining #ISIS abroad. Bad news is he waged jihad in #Ottawa today.",
+    "conclusion": "The suspect was prevented from travelling abroad to join ISIS",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T21:19:05+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525033625788907520/source-tweets/525033625788907520.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524929497205055488",
+    "text": "Canada's Parliament Hill is on lockdown as police hunt shooting suspect; at least 1 injured - @CBCNews, @TorontoStar http://t.co/aF9HyT9BgX",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T14:25:19+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524929497205055488/source-tweets/524929497205055488.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949828711620608",
+    "text": "UPDATE: One shooter possibly on the loose in #Ottawa amid reports of shootings in the city: http://t.co/tjycT5YQcv",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T15:46:06+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949828711620608/source-tweets/524949828711620608.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525002243100401664",
+    "text": "US Army increases security at Tomb of the Unknown Soldier at Arlington Nat'l Cemetery as precaution due to Ottawa shootings - @LMartinezABC",
+    "conclusion": "U.S. Army has increased security at Tomb of the Unknown at Arlington National Cemetary",
+    "veracity": "unverified",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T19:14:23+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525002243100401664/source-tweets/525002243100401664.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524952995034042368",
+    "text": "CLARIFICATION | The shooting was near the Rideau Centre, police say. Not inside it. #cbcOTT #OTTnews",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 12.0,
+    "timestamp": "2014-10-22T15:58:41+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524952995034042368/source-tweets/524952995034042368.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524972443308683264",
+    "text": "Statement from Ottawa Hospital: received 3 patients. 2 in stable condition. http://t.co/zu5hYPrGDL",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T17:15:58+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524972443308683264/source-tweets/524972443308683264.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524983050187579393",
+    "text": "Ottawa police correct their info. No shooting at the Rideau shopping centre. Everything now points to one gunman in two locations.",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T17:58:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524983050187579393/source-tweets/524983050187579393.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524991844292521984",
+    "text": "Ottawa Police won't say if there are still suspects at large; say it is still an active operation - live video http://t.co/aF9HyT9BgX",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T18:33:04+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524991844292521984/source-tweets/524991844292521984.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947964620701696",
+    "text": "Some Leaf players say they heard shots this morning from the Tomb of the Unknown Soldier. Scary events in Ottawa",
+    "conclusion": "Some Maple Leafs players heard shots being fired",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T15:38:42+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947964620701696/source-tweets/524947964620701696.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524935791794221057",
+    "text": "#OTTAWA SHOOTING: Police claim multiple suspects at large, ask people to avoid Paraliment area http://t.co/Zp9AKplH9p http://t.co/b3yQV4ewOs",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T14:50:20+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524935791794221057/source-tweets/524935791794221057.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524955159840182272",
+    "text": "MORE: Police say shots fired at 3 places: The National War Memorial, on Parliament Hill and near Rideau Centre Mall: http://t.co/ZUIqFDn4nl",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T16:07:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524955159840182272/source-tweets/524955159840182272.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524935345998422016",
+    "text": "Snipers now on top of Ottawa's National Art Gallery after gunfire at parliament http://t.co/bEFu7HisyW (@dmatthewmillar pic)",
+    "conclusion": "There are snipers on the roof of the National Art Gallery",
+    "veracity": "unverified",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T14:48:33+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524935345998422016/source-tweets/524935345998422016.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524976980799000578",
+    "text": "BREAKING NEWS: OTTAWA POLICE CONFIRM TO ABC NEWS THEY ARE LOOKING FOR 3 SUSPECTS, ONE HAS BEEN 'DEALT WITH' - http://t.co/lXFiYaVImZ",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 11.0,
+    "timestamp": "2014-10-22T17:34:00+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524976980799000578/source-tweets/524976980799000578.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949073154301952",
+    "text": "BREAKING: @ottawapolice confirm one death on Parliament Hill. 3 separate shootings: War Memorial, Hill and \"near Rideau Centre\" @ctvottawa",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-10-22T15:43:06+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949073154301952/source-tweets/524949073154301952.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524941727753568257",
+    "text": "We r being told it's still not safe outside downtown. Shooter on the loose. University of Ottawa shut down.",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 10.0,
+    "timestamp": "2014-10-22T15:13:55+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524941727753568257/source-tweets/524941727753568257.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524945684966166528",
+    "text": "BREAKING: Two or three gunmen were involved in shooting at Canada war memorial, Ottawa police say. http://t.co/qsAnGNqBEw",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 10.0,
+    "timestamp": "2014-10-22T15:29:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524945684966166528/source-tweets/524945684966166528.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524969679790817280",
+    "text": "#leafs could hear shots from their rooms, I am told. #OttawaShooting",
+    "conclusion": "Some Maple Leafs players heard shots being fired",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T17:04:59+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524969679790817280/source-tweets/524969679790817280.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524991576163250176",
+    "text": "MORE: Police believe three gunmen were involved in shootings in Ottawa this morning and are looking for two shooters. http://t.co/IHV4galEtC",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T18:32:00+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524991576163250176/source-tweets/524991576163250176.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524970851675176960",
+    "text": "Canada's parliament building locked down after shooting; at least one guard injured: http://t.co/Nrsnlg2s04 Photo: AP http://t.co/qPXF4IF6aM",
+    "conclusion": "One parliamentary guard has been injured",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T17:09:39+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524970851675176960/source-tweets/524970851675176960.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524929106987991040",
+    "text": "BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown, shooter at large http://t.co/64V216TLzO #ottnews",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T14:23:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524929106987991040/source-tweets/524929106987991040.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524944544681705472",
+    "text": "Ottawa police: Actively looking for one or more suspects in Canadian parliament shooting. http://t.co/UQ4xo5jvhF",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T15:25:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524944544681705472/source-tweets/524944544681705472.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524946336190586880",
+    "text": "UPDATE: Police: \"Several shooting incidents\" being investigated in downtown Ottawa: http://t.co/9MAAywtu03 http://t.co/wW0aQmzRIb",
+    "conclusion": "There were \"several\" shooting incidents",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T15:32:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524946336190586880/source-tweets/524946336190586880.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524981223291383809",
+    "text": "Ottawa Hospital confirms it has received 3 patients. 2 are in stable condition. Live blog: http://t.co/q98AMohu7T",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T17:50:51+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524981223291383809/source-tweets/524981223291383809.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949628689461249",
+    "text": "LIVE:Coverage of \"several shooting incidents\" at and near Canadian Parliament: http://t.co/0nuzHcvr2J http://t.co/ZJO2hQqtLF",
+    "conclusion": "There were \"several\" shooting incidents",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T15:45:19+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949628689461249/source-tweets/524949628689461249.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524958599433691136",
+    "text": "Police confirm 'several' shootings in Ottawa; PM safe; downtown buildings in lockdown http://t.co/WX22NpkCFs http://t.co/FlvvBW7Cu2",
+    "conclusion": "There were \"several\" shooting incidents",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T16:20:58+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524958599433691136/source-tweets/524958599433691136.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524924619812511746",
+    "text": "Witness tells #CBCNews suspected shooter of uniformed soldier at #Ottawa's War Memorial was carrying rifle.",
+    "conclusion": "Suspected shooter was carrying a rifle",
+    "veracity": "unverified",
+    "cascade_size": 9.0,
+    "timestamp": "2014-10-22T14:05:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524924619812511746/source-tweets/524924619812511746.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524956372199555072",
+    "text": "Map of areas where Ottawa shootings were reported: National War Memorial, near the Rideau Centre and Parliament Hill. http://t.co/NcfNCR5VCV",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 8.0,
+    "timestamp": "2014-10-22T16:12:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524956372199555072/source-tweets/524956372199555072.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524976486902951936",
+    "text": "Map of three #Ottawa locations where police say shots have been fired http://t.co/QrP5bauJcR http://t.co/nutT2VYvpD",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 8.0,
+    "timestamp": "2014-10-22T17:32:02+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524976486902951936/source-tweets/524976486902951936.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947971679744000",
+    "text": "BREAKING: Police source has told The Globe that a second shooter has been shot. #OttawaShooting",
+    "conclusion": "A second shooting suspect has been shot",
+    "veracity": "false",
+    "cascade_size": 8.0,
+    "timestamp": "2014-10-22T15:38:44+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947971679744000/source-tweets/524947971679744000.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524959332656349187",
+    "text": "Police in Canada have confirmed to NBC that multiple gunmen were involved in what appears to be coordinated series of shootings in #Ottawa",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 8.0,
+    "timestamp": "2014-10-22T16:23:52+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524959332656349187/source-tweets/524959332656349187.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524957566502445056",
+    "text": "Reports of a shooting at Rideau Centre have misstated the shooting location.",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 8.0,
+    "timestamp": "2014-10-22T16:16:51+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524957566502445056/source-tweets/524957566502445056.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524954028287877121",
+    "text": "Police in Ottawa are searching for suspected gunmen who shot a solider and fired shots in Parliament this morning. http://t.co/1cKIHwuCzl",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T16:02:48+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524954028287877121/source-tweets/524954028287877121.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524953918166794240",
+    "text": "Confirmed reports that there were three shootings in Ottawa: at a War memorial, at the Parliament and at a shopping mall.",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T16:02:21+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524953918166794240/source-tweets/524953918166794240.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524930575472136192",
+    "text": "#ottnews #ctvottawa  Reports man has been apprehended on Parliament Hill.  As many as 30 shots fired  - soldier shot at War Memorial.",
+    "conclusion": "Suspect has been apprehended on Parliament Hill",
+    "veracity": "unverified",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T14:29:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524930575472136192/source-tweets/524930575472136192.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524981436252950528",
+    "text": "Canadian authorities have given name of suspect in Ottawa attacks to U.S. feds; ask for FBI assistance: Sr U.S. law enforcement official",
+    "conclusion": "Canadians have given name of suspect to U.S. officials",
+    "veracity": "unverified",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T17:51:42+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524981436252950528/source-tweets/524981436252950528.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524951419175309312",
+    "text": "#BREAKING : 3rd shooting incident reported in #ottawa at Rideau Centre Mall",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T15:52:26+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524951419175309312/source-tweets/524951419175309312.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949306101743616",
+    "text": "NEW: Ottawa police reporting 3rd shooting scene, at Rideau Centre Mall, close to Parliament Hill",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T15:44:02+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949306101743616/source-tweets/524949306101743616.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949026064850944",
+    "text": "CTV has received confirmation from Ottawa Police that there have been three different shooting incidents #ottnews #ottawashooting",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 7.0,
+    "timestamp": "2014-10-22T15:42:55+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949026064850944/source-tweets/524949026064850944.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524944637489086464",
+    "text": "#OTTAWA SHOOTING: Police killed 1 guman, believe 2 or 3 still at large - reports http://t.co/Zp9AKplH9p http://t.co/f5jsyOog9b",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T15:25:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524944637489086464/source-tweets/524944637489086464.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524945676443340800",
+    "text": "Police confirm multiple suspects involved in shooting incident at Ottawa War Memorial - @VassyKapelos, @amyminsky http://t.co/aF9HyT9BgX",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T15:29:36+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524945676443340800/source-tweets/524945676443340800.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525052332116312064",
+    "text": "Official: All 3 patients injured in Ottawa shootings have been released from hospital - @OttawaHospital http://t.co/aF9HyT9BgX",
+    "conclusion": "Three patients injured in Ottawa shooting released from hospital",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T22:33:25+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525052332116312064/source-tweets/525052332116312064.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524968337747767298",
+    "text": "BREAKING: A spokesperson for The Ottawa Hospital confirms that it has received three patients, two of which are in stable condition.",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T16:59:39+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524968337747767298/source-tweets/524968337747767298.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524993533212897281",
+    "text": "FBI assisting in the case of the Ottawa shooting, sources have confirmed to CTV News",
+    "conclusion": "The FBI is assisting Canadians with the Ottawa shooting",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T18:39:46+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524993533212897281/source-tweets/524993533212897281.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947870735429632",
+    "text": "LATEST: Numerous gunmen involved in #Ottawa shooting attacks, manhunt is on - police spokesman http://t.co/Zp9AKplH9p http://t.co/hji1netpU8",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T15:38:20+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947870735429632/source-tweets/524947870735429632.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524977321430630400",
+    "text": "Ottawa Police spokesman tells @ABC News that 3 suspects are being sought following shootings in Canadian capital - @WorldNews",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T17:35:21+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524977321430630400/source-tweets/524977321430630400.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524937542131793920",
+    "text": "We are in full lock down until further notice from Ottawa Police.",
+    "conclusion": "Rideau Centre is on lockdown",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T14:57:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524937542131793920/source-tweets/524937542131793920.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524958227768020992",
+    "text": "BREAKING: Two new patients coming to Ottawa hospital civic campus. One with gunshot wounds. Just confirmed #ottnews",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T16:19:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524958227768020992/source-tweets/524958227768020992.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524940659778920448",
+    "text": "Attack on Parliament: Soldier shot; gunman on the loose. Follow our developing story: http://t.co/bo99C9HqJE http://t.co/2FXEYtTl8w",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 6.0,
+    "timestamp": "2014-10-22T15:09:40+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524940659778920448/source-tweets/524940659778920448.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524935586025861121",
+    "text": "Witnesses say as many as 50 shots fired at Parliament Hill. Gunfire reported within the Parliament building. #ottawa http://t.co/HGevLjele0",
+    "conclusion": "As many as 50 shots have been fired on Parliament Hill",
+    "veracity": "unverified",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T14:49:31+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524935586025861121/source-tweets/524935586025861121.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524961908903149568",
+    "text": "2 new victims en route to Ottawa hospital; 1 shot, both non-life-threatening, hospital says - @MICHAELCTV, @CBCNews https://t.co/wCqPcyqMxK",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T16:34:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524961908903149568/source-tweets/524961908903149568.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524943812339437569",
+    "text": "Global News camera man reporting shots fired by Chateau Laurier hotel #ottawa",
+    "conclusion": "Shots have been fired by/near the Chateau Laurier",
+    "veracity": "false",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T15:22:12+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524943812339437569/source-tweets/524943812339437569.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524990163446140928",
+    "text": "Police have clarified that there were two shootings in Ottawa today, not three: at the War Memorial and Parliament Hill.",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T18:26:23+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524990163446140928/source-tweets/524990163446140928.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524964989975937024",
+    "text": "Canadian authorities 'were aware of potential #Isis-style attacks for weeks'\nhttp://t.co/AEMhmInJxm #OttawaShooting http://t.co/TDL4Wl1lFL",
+    "conclusion": "Authorities were aware of potential ISIS-related attack",
+    "veracity": "unverified",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T16:46:21+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524964989975937024/source-tweets/524964989975937024.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949733983657984",
+    "text": "Ottawa police now say there are 3 shootings in Ottawa:  Parliament, War Memorial and Rideau Centre Mall http://t.co/s0bE3BaNn7",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T15:45:44+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949733983657984/source-tweets/524949733983657984.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524966392702189569",
+    "text": "NORAD has gone on a high alert posture as a result of the shootings in Ottawa, U.S. military officials say - @JimMiklaszewski",
+    "conclusion": "NORAD on high-alert posture",
+    "veracity": "unverified",
+    "cascade_size": 5.0,
+    "timestamp": "2014-10-22T16:51:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524966392702189569/source-tweets/524966392702189569.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524935758143324160",
+    "text": "Update: Reuters reports a witness who says police chased a suspect into Candian parliament in #Ottawa &amp; then heard 30 shots fired inside",
+    "conclusion": "30 shots were fired inside/on Parliament Hill",
+    "veracity": "unverified",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T14:50:12+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524935758143324160/source-tweets/524935758143324160.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524950264303075328",
+    "text": "CANADA PARLIAMENT SHOOTING:\n- Still active shooter\n- 3 separate shooting sites\n- Multiple gunmen\n- 1 gunmen dead\nhttp://t.co/lXFiYaVImZ",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T15:47:50+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524950264303075328/source-tweets/524950264303075328.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524959836778536961",
+    "text": "UPDATE: Ottawa police confirm gunman in Canada shooting shot and killed. Search on for possible additional gunmen. http://t.co/sV7ZH50tlf",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T16:25:53+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524959836778536961/source-tweets/524959836778536961.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524967727266398209",
+    "text": "Ottawa hospital says it's treating three patients, two in stable condition, after shooting incident. http://t.co/1cKIHwuCzl",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T16:57:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524967727266398209/source-tweets/524967727266398209.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524974456851410944",
+    "text": "Map of the locations of shootings in Ottawa, at War Memorial, House of Commons and nearby mall http://t.co/X88Z25p9Tx http://t.co/oFsyyJQ4Qp",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T17:23:58+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524974456851410944/source-tweets/524974456851410944.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524948554344054785",
+    "text": "UPDATE: Reports of 1 more shooter being SHOT. This is in addition to one shot and killed earlier in Parliament Hill #ottnews #OttawaShooting",
+    "conclusion": "A second shooting suspect has been shot",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T15:41:03+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524948554344054785/source-tweets/524948554344054785.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "525051365195014144",
+    "text": "All 3 patients injured in #OttawaShooting released from hospital: #Ottawa Hospital spokesperson. #cdnpoli",
+    "conclusion": "Three patients injured in Ottawa shooting released from hospital",
+    "veracity": "unverified",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T22:29:35+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/525051365195014144/source-tweets/525051365195014144.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949021744713728",
+    "text": "Ottawa Police report a third shooting incident at the Rideau Centre. No word on injuries.",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T15:42:54+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949021744713728/source-tweets/524949021744713728.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947744809418752",
+    "text": "#RIGHTNOW all bridges from #Ottawa #Gatineau are NOW CLOSED! Active search still underway (11:37est) #ParliamentHill http://t.co/FMpAcCAI2b",
+    "conclusion": "All bridges to/from Ottawa are closed",
+    "veracity": "unverified",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T15:37:50+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947744809418752/source-tweets/524947744809418752.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524955062486196224",
+    "text": "Rideau Centre general manager tell @globeandmail there was no shooting inside the mall. But people can't leave or enter. #OttawaShooting",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T16:06:54+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524955062486196224/source-tweets/524955062486196224.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524961659685588995",
+    "text": "Extended Video: Guns raised, officers rush towards @RideauCentre http://t.co/YHpG2o8XeH http://t.co/UsPYjU85AS",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T16:33:07+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524961659685588995/source-tweets/524961659685588995.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949443607412737",
+    "text": "Ottawa Police report a third shooting at Rideau Centre, no reports of injuries.",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 4.0,
+    "timestamp": "2014-10-22T15:44:35+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949443607412737/source-tweets/524949443607412737.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524948703850029056",
+    "text": "BREAKING NEWS: Ottawa police confirm at least 3 separate shooting sites and multiple suspects -  http://t.co/lXFiYaVImZ",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T15:41:38+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524948703850029056/source-tweets/524948703850029056.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524926472432410625",
+    "text": "One person shot outside Centre Block, a second wounded inside the building in Parliament Hill shooting http://t.co/zng0g0aelU",
+    "conclusion": "A person has been wounded inside Parliament buildings",
+    "veracity": "unverified",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T14:13:18+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524926472432410625/source-tweets/524926472432410625.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524947416869388288",
+    "text": "Reports now that 2nd shooter has been shot in downtown Ottawa #ottnews",
+    "conclusion": "A second shooting suspect has been shot",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T15:36:31+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524947416869388288/source-tweets/524947416869388288.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524934827909210112",
+    "text": "We are hearing a shooter is still on the loose here in DT Ottawa with a rifle please pray for our police and soldiers #PrayForOttawa",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T14:46:30+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524934827909210112/source-tweets/524934827909210112.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524955557686284288",
+    "text": "Police are now investigating three shooting incidents in Ottawa at Parliament, shopping mall and War Memorial. http://t.co/1cKIHwuCzl",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T16:08:52+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524955557686284288/source-tweets/524955557686284288.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949439367380993",
+    "text": "#OttawaShooting police say they are investigating 3 shootings, one at War Memorial, one on Parliament Hill and one near Rideau Centre",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T15:44:34+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949439367380993/source-tweets/524949439367380993.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524948866773184512",
+    "text": "Ottawa police issued a statement. Three separate shooting incidents. Once inside parliament. One at the war memorial. One at Rideau Centre",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T15:42:17+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524948866773184512/source-tweets/524948866773184512.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524961362448240642",
+    "text": "Breaking: Shots were fired at three separate locations in Ottawa, say Ottawa police  http://t.co/64ryfqadX1",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T16:31:56+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524961362448240642/source-tweets/524961362448240642.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524949837729787905",
+    "text": "#BREAKING: Ottawa police confirm to CTV news there were at least three separate shootings",
+    "conclusion": "There were three separate shooting incidents",
+    "veracity": "false",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T15:46:09+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524949837729787905/source-tweets/524949837729787905.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524932056560963584",
+    "text": "BREAKING: At least 20 shots have been fired in the Canadian parliament in Ottawa, according to witnesses.",
+    "conclusion": "At least 20 shots were fired inside Parliament buildings",
+    "veracity": "unverified",
+    "cascade_size": 3.0,
+    "timestamp": "2014-10-22T14:35:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524932056560963584/source-tweets/524932056560963584.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524969878823137280",
+    "text": "Ottawa Hospital says it received 3 patients after shootings; 2 stable, won't give update on soldier - statement http://t.co/aF9HyT9BgX",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 2.0,
+    "timestamp": "2014-10-22T17:05:47+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524969878823137280/source-tweets/524969878823137280.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524955304199352320",
+    "text": "Police confirming a 3rd shooting at Rideau Center here in Ottawa, a popular shopping mall downtown - very tense in city #OttawaStrong",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 2.0,
+    "timestamp": "2014-10-22T16:07:52+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524955304199352320/source-tweets/524955304199352320.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524958743000125440",
+    "text": "BREAKING: #Ottawa Civic Hosp official says TWO NEW PATIENTS are enroute to hospital. 1 w/gunshot wounds. Both stable. @ctvottawa #ottnews",
+    "conclusion": "Two new patients admitted to hosptial",
+    "veracity": "unverified",
+    "cascade_size": 2.0,
+    "timestamp": "2014-10-22T16:21:32+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524958743000125440/source-tweets/524958743000125440.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524926301678096384",
+    "text": "MORE: @CTVNews reporting second shooting behind Peace Tower on Parliament Hill #ottnews SHOOTER IS ON THE LOOSE.",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 2.0,
+    "timestamp": "2014-10-22T14:12:37+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524926301678096384/source-tweets/524926301678096384.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524939327399559170",
+    "text": "HAPPENING NOW: More shots heard near parliament in #Ottawa, suspect still at large - police http://t.co/Zp9AKplH9p http://t.co/pWVxhqPKez",
+    "conclusion": "Shooter is still on the loose",
+    "veracity": "unverified",
+    "cascade_size": 2.0,
+    "timestamp": "2014-10-22T15:04:23+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524939327399559170/source-tweets/524939327399559170.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524943063937208320",
+    "text": "#Ottawa Police say they are dealing with multiple suspects. Cannot confirm whether both/all have guns. Ottawa still pretty much locked down",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 1.0,
+    "timestamp": "2014-10-22T15:19:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524943063937208320/source-tweets/524943063937208320.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524952154482946048",
+    "text": "Breaking: Police confirm multiple suspects in Ottawa shooting. http://t.co/tYCeELTJqc",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 1.0,
+    "timestamp": "2014-10-22T15:55:21+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524952154482946048/source-tweets/524952154482946048.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524980579956449281",
+    "text": "UPDATE: A lockdown at the Rideau Centre in Ottawa has been lifted.",
+    "conclusion": "Rideau Centre is on lockdown",
+    "veracity": "unverified",
+    "cascade_size": 1.0,
+    "timestamp": "2014-10-22T17:48:18+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524980579956449281/source-tweets/524980579956449281.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524982608716120065",
+    "text": "\"Contrary to earlier reports no incident occurred near the Rideau Centre,\" Ottawa police say. #cbcOTT @OTTnews",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 1.0,
+    "timestamp": "2014-10-22T17:56:22+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524982608716120065/source-tweets/524982608716120065.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524942058042449920",
+    "text": "Ottawa Police say they are dealing with multiple suspects, can't confirm whether all have guns but are confirming multiple suspects.",
+    "conclusion": "There are multiple shooting suspects still at large",
+    "veracity": "false",
+    "cascade_size": 0.0,
+    "timestamp": "2014-10-22T15:15:14+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524942058042449920/source-tweets/524942058042449920.json",
+    "conclusion_frequency": 0
+  },
+  {
+    "tweet_id": "524950428598153216",
+    "text": ".@ctvottawa confirms there were 3 separate shootings. One on Parliament Hill, one at National War Memorial, one at Rideau Centre",
+    "conclusion": "There was a shooting incident near/at the Rideau Centre",
+    "veracity": "false",
+    "cascade_size": 0.0,
+    "timestamp": "2014-10-22T15:48:29+00:00",
+    "source_path": "/your_path/PHEME/all-rnr-annotated-threads/ottawashooting-all-rnr-threads/rumours/524950428598153216/source-tweets/524950428598153216.json",
+    "conclusion_frequency": 0
+  }
+]
