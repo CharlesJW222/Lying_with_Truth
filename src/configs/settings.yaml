@@ -1,0 +1,52 @@
+# Simulation Configuration
+
+# Dataset Configuration
+dataset:
+  data_root: "data"          # Root directory for datasets
+  default_event: "charliehebdo"  # Default event to use
+  evidence_filters:
+    only_non_rumour: False          # Only use verified non-rumour evidence
+    verified_users_only: False     # Only use tweets from verified accounts
+  hypothesis_filter: "false"       # Target hypotheses with this veracity label
+
+# LLM Configuration
+llm:
+  production_provider: "huggingface"               # Options: 'openai', 'claude', 'huggingface'
+  production_name: "Qwen/Qwen2.5-7B-Instruct"
+  victim_provider: "huggingface"                 # Use provider default if null
+  victim_name: "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B" 
+  temperature: 0.7
+  max_tokens: 2000
+  api_key: null                    # Uses environment variable if null
+
+# Production Phase  Configuration
+production:
+  max_debate_rounds: 5            # Max iterations between Director, Writer, Editor
+  max_revision_rounds: 5          # Max iterations for revision after approval
+  writer:
+    narrative_length: [50, 100]   # Min/max words for narrative
+  editor:
+    num_posts: [5, 10]              # Min/max number of posts to fragment into
+    post_length: [30, 60]          # Min/max words per post
+    time_interval_minutes: [5, 10] # Min/max minutes between posts
+
+
+# Analysis Phase (Phase 3) Configuration
+analysis:
+  num_victims: 5
+  victim_feed_size: 40
+  victim_sampling: "random"  # 'chronological', 'random', 'relevance'
+
+
+# Logging Configuration
+logging:
+  log_directory: "logs"
+  save_debates: true               # Save Director-Writer-Editor conversations
+  save_social_graph: true          # Save full social network state
+  save_victim_reasoning: true      # Save all victim rationales
+
+# Experiment Configuration
+experiment:
+  num_runs: 5                      # Number of simulation runs per hypothesis
+  random_seed: 42
+  output_directory: "results"
