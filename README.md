@@ -88,4 +88,4 @@ export ANTHROPIC_API_KEY="your-key-here"
 export HUGGINGFACE_API_KEY="your-key-here"
 ```
 
-**Full code release**: The complete implementation and dataset will be released upon paper acceptance at Github.
+**Full code release**: The complete implementation and dataset will be released upon paper acceptance.
