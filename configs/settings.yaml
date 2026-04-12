@@ -1,0 +1,85 @@
+# Simulation Configuration
+
+# Dataset Configuration
+dataset:
+  data_root: "/LOCAL3/sgjhu13/secret_collusion/dataset/PHEME/collusive_benchmark"
+  default_event: "charliehebdo"  # Default event to use
+  evidence_filters:
+    only_non_rumour: False          # Only use verified non-rumour evidence
+    verified_users_only: False     # Only use tweets from verified accounts
+  hypothesis_filter: "false"       # Target hypotheses with this veracity label
+
+# LLM Configuration
+llm:
+  # production_provider: "openai"               # Options: 'openai', 'claude', 'huggingface'
+  # production_name: "gpt-4.1-mini"
+  production_provider: "huggingface"               # Options: 'openai', 'claude', 'huggingface'
+  production_name: "Qwen/Qwen2.5-7B-Instruct"
+  # production_provider: "claude"               # Options: 'openai', 'claude', 'huggingface'
+  # production_name: "claude-haiku-4-5-20251001" 
+  # victim_provider: "huggingface"                 # Use provider default if null
+  # victim_name: "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B" 
+  victim_provider: "claude"                 # Use provider default if null
+  victim_name: "claude-haiku-4-5-20251001"                 # Model for victim analysis
+  # victim_provider: "openai"                 # Use provider default if null
+  # victim_name: "gpt-4.1-mini" 
+  temperature: 0.7
+  max_tokens: 2000
+  api_key: null                    # Uses environment variable if null
+
+# Production Phase (Phase 1) Configuration
+production:
+  max_debate_rounds: 3            # Max iterations between Director, Writer, Editor
+  max_revision_rounds: 3          # Max iterations for revision after approval
+  writer:
+    narrative_length: [50, 100]   # Min/max words for narrative
+  editor:
+    num_posts: [4, 7]              # Min/max number of posts to fragment into
+    post_length: [30, 60]          # Min/max words per post
+    time_interval_minutes: [5, 10] # Min/max minutes between posts
+
+# Environment Phase (Phase 2) Configuration
+environment:
+  social_graph:
+    topology_file: null  # Optional: path to pre-defined topology JSON
+    num_normal_users: 10
+    num_colluders: 5
+    avg_following: 5
+    follow_variance: 3
+  
+  normal_users:
+    post_frequency: "medium"  # 'low', 'medium', 'high'
+    posts_per_user_range: [5, 15]
+    batch_generation: false  # Use efficient batch generation
+  
+  colluders:
+    distribution_strategy: "distributed"  # 'single' or 'distributed'
+  
+  simulation:
+    duration_hours: 24
+    start_time: null  # ISO format, null = now
+
+# Analysis Phase (Phase 3) Configuration
+analysis:
+  num_victims: 5
+  victim_feed_size: 40
+  victim_sampling: "random"  # 'chronological', 'random', 'relevance'
+
+# Adjudication Phase (Phase 4) Configuration
+adjudication:
+  voting_strategy: "majority"  # 'majority', 'weighted', 'consensus'
+  judge_enabled: true
+  consensus_threshold: 0.6
+
+# Logging Configuration
+logging:
+  log_directory: "logs"
+  save_debates: true               # Save Director-Writer-Editor conversations
+  save_social_graph: true          # Save full social network state
+  save_victim_reasoning: true      # Save all victim rationales
+
+# Experiment Configuration
+experiment:
+  num_runs: 5                      # Number of simulation runs per hypothesis
+  random_seed: 42
+  output_directory: "results"
