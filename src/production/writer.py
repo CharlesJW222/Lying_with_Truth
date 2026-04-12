@@ -1,6 +1,5 @@
 """
 Writer Agent: Constructs misleading narratives using real evidence fragments
-Techniques: Geographic obfuscation, temporal vagueness, entity generalization, causal implication
 """
 
 import json
