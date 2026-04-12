@@ -1,9 +1,5 @@
 """
 Noise Post Templates
-社交媒体噪声帖子模板库
-
-用于生成真实感的背景噪声，模拟社交媒体上的日常内容
-可以根据需要扩展更多话题类别和模板
 """
 
 NOISE_TEMPLATES = {
@@ -89,8 +85,8 @@ NOISE_TEMPLATES = {
 }
 
 
-# 可以继续添加更多话题类别
-# 例如：
+# More examples can be added.
+# 
 #
 # NOISE_TEMPLATES["news"] = [
 #     "Did you hear about the new policy announcement?",
