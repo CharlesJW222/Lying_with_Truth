@@ -28,43 +28,6 @@ class BaseLLMClient(ABC):
         pass
 
 
-# class OpenAIClient(BaseLLMClient):
-#     """OpenAI API Client"""
-    
-#     def __init__(self, model_name: str = "gpt-4o", temperature: float = 0.7, 
-#                  max_tokens: int = 2000, api_key: Optional[str] = None):
-#         super().__init__(model_name, temperature, max_tokens)
-#         try:
-#             import openai
-#             self.client = openai.OpenAI(api_key=api_key or os.getenv("OPENAI_API_KEY"))
-#         except ImportError:
-#             raise ImportError("Please install openai: pip install openai")
-    
-#     def generate(self, prompt: str, system_prompt: Optional[str] = None) -> str:
-#         """Generate response from OpenAI"""
-#         messages = []
-#         if system_prompt:
-#             messages.append({"role": "system", "content": system_prompt})
-#         messages.append({"role": "user", "content": prompt})
-        
-#         response = self.client.chat.completions.create(
-#             model=self.model_name,
-#             messages=messages,
-#             temperature=self.temperature,
-#             max_tokens=self.max_tokens
-#         )
-#         return response.choices[0].message.content
-    
-#     def generate_with_history(self, messages: List[Dict[str, str]]) -> str:
-#         """Generate response with conversation history"""
-#         response = self.client.chat.completions.create(
-#             model=self.model_name,
-#             messages=messages,
-#             temperature=self.temperature,
-#             max_tokens=self.max_tokens
-#         )
-#         return response.choices[0].message.content
-
 
 class OpenAIClient(BaseLLMClient):
     """OpenAI API Client (compatible with max_tokens and max_completion_tokens)"""
@@ -390,37 +353,16 @@ class HuggingFaceLocalClient(BaseLLMClient):
 
 
 class VLLMClient(BaseLLMClient):
-    """vLLM Client - 高性能推理引擎"""
+    """vLLM Client"""
     
     def __init__(self, model_name: str = "meta-llama/Llama-3.1-8B-Instruct",
                  temperature: float = 0.7, max_tokens: int = 2000,
                  tensor_parallel_size: int = 1,
                  gpu_memory_utilization: float = 0.9,
                  visible_devices: Optional[str] = None):
-        """
-        Args:
-            model_name: HuggingFace模型名称
-            temperature: 采样温度
-            max_tokens: 最大生成token数
-            tensor_parallel_size: 张量并行GPU数量
-            gpu_memory_utilization: GPU显存利用率（0-1）
-            visible_devices: 指定可见GPU，如"0,2"表示只用GPU 0和2
-        """
+
         super().__init__(model_name, temperature, max_tokens)
         
-        # if tensor_parallel_size > 1:
-        #     import multiprocessing
-        #     current_method = multiprocessing.get_start_method(allow_none=True)
-            
-        #     if current_method != 'spawn':
-        #         try:
-        #             multiprocessing.set_start_method('spawn', force=True)
-        #             print(f"✓ Set multiprocessing to 'spawn' mode for CUDA compatibility")
-        #         except RuntimeError as e:
-        #             print(f"⚠️ Could not set spawn mode: {e}")
-        #             print(f"   Continuing with current method: {current_method}")
-        
-        # 设置可见GPU
         if visible_devices is not None:
             import os
             os.environ["CUDA_VISIBLE_DEVICES"] = visible_devices
@@ -437,7 +379,6 @@ class VLLMClient(BaseLLMClient):
         if visible_devices:
             print(f"  Visible devices: {visible_devices}")
         
-        # 初始化vLLM引擎
         self.llm = LLM(
             model=model_name,
             tensor_parallel_size=tensor_parallel_size,
@@ -455,8 +396,6 @@ class VLLMClient(BaseLLMClient):
         print(f"✓ vLLM model loaded successfully")
     
     def _prepare_prompt(self, messages: List[Dict[str, str]]) -> str:
-        """将messages转换为prompt字符串"""
-        # vLLM需要字符串格式的prompt
         prompt = ""
         for msg in messages:
             role = msg["role"]
@@ -471,7 +410,6 @@ class VLLMClient(BaseLLMClient):
         return prompt
     
     def generate(self, prompt: str, system_prompt: Optional[str] = None) -> str:
-        """生成单个响应"""
         messages = []
         if system_prompt:
             messages.append({"role": "system", "content": system_prompt})
@@ -480,20 +418,15 @@ class VLLMClient(BaseLLMClient):
         return self.generate_with_history(messages)
     
     def generate_with_history(self, messages: List[Dict[str, str]]) -> str:
-        """生成单个响应（带历史）"""
         prompt_text = self._prepare_prompt(messages)
         
-        # vLLM推理
+
         outputs = self.llm.generate([prompt_text], self.sampling_params)
         
         return outputs[0].outputs[0].text.strip()
     
     def batch_generate(self, prompts: List[str], system_prompt: Optional[str] = None) -> List[str]:
-        """
-        批量生成 - vLLM的杀手级功能！
-        比循环调用generate快5-10倍
-        """
-        # 构建所有prompts
+
         messages_batch = []
         for prompt in prompts:
             messages = []
@@ -502,7 +435,6 @@ class VLLMClient(BaseLLMClient):
             messages.append({"role": "user", "content": prompt})
             messages_batch.append(self._prepare_prompt(messages))
         
-        # 批量推理
         outputs = self.llm.generate(messages_batch, self.sampling_params)
         
         return [output.outputs[0].text.strip() for output in outputs]
@@ -518,31 +450,19 @@ class LLMClientFactory:
         max_tokens: int = 2000,
         api_key: Optional[str] = None,
         
-        # Transformers本地参数
         use_local: bool = True,
         device: str = "auto",
         load_in_8bit: bool = False,
         load_in_4bit: bool = False,
         use_flash_attention: bool = False,
         
-        # vLLM参数
-        use_vllm: bool = True,               # ← 默认True
-        tensor_parallel_size: int = 2,       # ← 默认单GPU
+        use_vllm: bool = True,               
+        tensor_parallel_size: int = 2,      
         gpu_memory_utilization: float = 0.9,
-        visible_devices: Optional[str] = "0,1" # ← 默认只用GPU
+        visible_devices: Optional[str] = "0,1" 
     ) -> BaseLLMClient:
         """
         Create LLM client
-        
-        优先级: vLLM > Transformers Local > HF API
-        
-        vLLM参数说明:
-          - tensor_parallel_size=1: 单GPU运行
-          - tensor_parallel_size=2: 2个GPU张量并行（模型切分）
-          - visible_devices: 控制使用哪些GPU
-            * "2": 只用GPU 2
-            * "0,2": 使用GPU 0和2
-            * None: 使用所有可见GPU
         """
         provider = provider.lower()
         
@@ -563,7 +483,6 @@ class LLMClientFactory:
             )
         
         elif provider == "huggingface":
-            # 优先级: vLLM > Local > API
             if use_vllm:
                 return VLLMClient(
                     model_name=model_name or "meta-llama/Llama-3.1-8B-Instruct",
