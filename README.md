@@ -1,5 +1,6 @@
-# Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage
+# Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage (ACL 2026 Oral)
 
+[![ACL 2026 Oral](https://img.shields.io/badge/ACL%202026-Oral-blue)](https://aclanthology.org/2026.acl-long.270/)
 
 ## Overview
 
