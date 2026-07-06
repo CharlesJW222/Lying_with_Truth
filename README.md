@@ -87,5 +87,31 @@ export ANTHROPIC_API_KEY="your-key-here"
 # For open-weights models (if using hosted APIs)
 export HUGGINGFACE_API_KEY="your-key-here"
 ```
+## Citation
 
-**Full code release**: The complete implementation and dataset will be released upon paper acceptance.
+If you find our idea is helpful, please cite:
+
+```bibtex
+@inproceedings{hu-etal-2026-lying,
+    title = "Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage",
+    author = "Hu, Jinwei  and
+      Huang, Xinmiao  and
+      Sun, Youcheng  and
+      Dong, Yi  and
+      Huang, Xiaowei",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.270/",
+    doi = "10.18653/v1/2026.acl-long.270",
+    pages = "5979--5996",
+    ISBN = "979-8-89176-390-6",
+    abstract = "As large language models (LLMs) transition to autonomous agents synthesizing real-time information, their reasoning capabilities introduce an unexpected attack surface. This paper introduces a novel threat where colluding agents steer victim beliefs using only truthful evidence fragments distributed through public channels, without relying on covert communications, backdoors, or falsified documents. By exploiting LLMs' overthinking tendency, we formalize the first **cognitive collusion attack** and propose **Generative Montage**: a Writer-Editor-Director framework that constructs deceptive narratives through adversarial debate and coordinated posting of evidence fragments, causing victims to internalize and propagate fabricated conclusions. To study this risk, we develop **CoPHEME**, a dataset derived from real-world rumor events, and simulate attacks across diverse LLM families. Our results show pervasive vulnerability across 14 LLM families: attack success rates reach 74.4{\%} for proprietary models and 70.6{\%} for open-weights models. Counterintuitively, stronger reasoning capabilities increase susceptibility, with reasoning-specialized models showing higher attack success than base models or prompts. Furthermore, these false beliefs then cascade to downstream judges, achieving over 60{\%} deception rates, highlighting a socio-technical vulnerability in how LLM-based agents interact with dynamic information environments."
+}
+```
